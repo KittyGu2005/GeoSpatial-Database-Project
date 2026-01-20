@@ -1,0 +1,89 @@
+﻿<html>
+<!-- 下面是示例3.6.0，将单元格输出直接粘贴进来，然后右键选择Open With Live Server  -->
+
+<link rel="stylesheet" href="tools/leaflet.css" />
+<link rel="stylesheet" href="tools/map.css">
+<script src="tools/d3.min.js" type="text/javascript"></script>
+<script src="tools/leaflet.js" type="text/javascript"></script>
+<script src="tools/leaflet-heat.js" type="text/javascript"></script>
+<script src="tools/jquery-3.1.1.js" type="text/javascript"></script>
+<script src="tools/L.D3SvgOverlay.js" type="text/javascript"></script>
+<script src="tools/wkx.js" type="text/javascript"></script>
+<script src="tools/underscore.js" type="text/javascript"></script>
+<script src="tools/geom_display.js" type="text/javascript"></script>
+<script src="tools/baseMap.js" type="text/javascript"></script>
+<script src="tools/heatMap.js" type="text/javascript"></script>
+<script src="tools/choroplethMap.js" type="text/javascript"></script>
+
+<h4>3.6.0 查询伊利湖的边界</h4>
+<div id='map0' style="width: 1000px; height: 600px"></div>
+<script src="jsonData/map0.json" type="text/javascript"></script>
+<script type="text/javascript">(new GeoMap('map0', 7, 0, '0')).display();</script>
+
+<h4>3.6.2 查询高速公路全称为’I 90’的凸包</h4>
+<div id='map1' style="width: 1000px; height: 600px"></div>
+<script src="jsonData/map1.json" type="text/javascript"></script>
+<script type="text/javascript">(new GeoMap('map1', 4, 0, '0')).display();</script>
+
+<h4>3.6.3 查询哪些湖中有岛</h4>
+<div id='map2' style="width: 1000px; height: 600px"></div>
+<script src="jsonData/map2.json" type="text/javascript"></script>
+<script type="text/javascript">(new GeoMap('map2', 5, 0, '0')).display();</script>
+
+<h4>3.6.5 查询最长的高速公路及其长度</h4>
+<div id='map3' style="width: 1000px; height: 600px"></div>
+<script src="jsonData/map3.json" type="text/javascript"></script>
+<script type="text/javascript">(new GeoMap('map3', 4, 0, '0')).display();</script>
+
+<h4>3.6.6 查询与安大略湖的质心距离最近的城市</h4>
+<div id='map4' style="width: 1000px; height: 600px"></div>
+<script src="jsonData/map4.json" type="text/javascript"></script>
+<script type="text/javascript">(new GeoMap('map4', 8, 0, '0')).display();</script>
+
+<h4>3.6.7 查询96号公路与哪些高速公路联通</h4>
+<div id='map5' style="width: 1000px; height: 600px"></div>
+<script src="jsonData/map5.json" type="text/javascript"></script>
+<script type="text/javascript">(new GeoMap('map5', 5, 0, '0')).display();</script>
+
+<h4>3.6.8 查询哪个城市最偏僻</h4>
+<div id='map6' style="width: 1000px; height: 600px"></div>
+<script src="jsonData/map6.json" type="text/javascript"></script>
+<script type="text/javascript">(new GeoMap('map6', 6, 0, '0')).display();</script>
+
+<h4>3.6.9 查询哪些高速公路穿越湖</h4>
+<div id='map7' style="width: 1000px; height: 600px"></div>
+<script src="jsonData/map7.json" type="text/javascript"></script>
+<script type="text/javascript">(new GeoMap('map7', 4, 0, '0')).display();</script>
+
+<h4>3.6.10 交通事故与高速公路空间关联</h4>
+<div id='map8' style="width: 1000px; height: 600px"></div>
+<script src="jsonData/map8.json" type="text/javascript"></script>
+<script type="text/javascript">(new GeoMap('map8', 6, 1, '0')).display();</script>
+
+<h4>3.6.11 加州网格交通事故统计</h4>
+<div id='map9' style="width: 1000px; height: 600px"></div>
+<script src="jsonData/map9.json" type="text/javascript"></script>
+<script type="text/javascript">(new ChoroplethMap('map9', 6, 1, '0')).display();</script>
+
+<h4>3.6.12 加州网格交通事故统计，热力图可视化</h4>
+<div id='map10' style="width: 1000px; height: 600px"></div>
+<script src="jsonData/map10.json" type="text/javascript"></script>
+<script type="text/javascript">(new HeatMap('map10', 6, 0, '0')).display();</script>
+
+<h4>3.7.2 分析周末与非周末哪些高速公路上发生酒驾次数有较大差异</h4>
+非周末每条高速公路上的酒驾次数</br>
+<div id='map11' style="width: 1000px; height: 600px"></div>
+<script src="jsonData/map11.json" type="text/javascript"></script>
+<script type="text/javascript">(new ChoroplethMap('map11', 4, 1, '0')).display();</script>
+
+周末每条高速公路上的酒驾次数</br>
+<div id='map12' style="width: 1000px; height: 600px"></div>
+<script src="jsonData/map12.json" type="text/javascript"></script>
+<script type="text/javascript">(new ChoroplethMap('map12', 4, 1, '0')).display();</script>
+
+<h4>3.7.3 附加题</h4>
+<div id='map13' style="width: 1000px; height: 600px"></div>
+<script src="jsonData/map13.json" type="text/javascript"></script>
+<script type="text/javascript">(new GeoMap('map13', 4, 0, '0')).display();</script>
+
+</html>
