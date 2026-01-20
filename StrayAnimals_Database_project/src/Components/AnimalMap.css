@@ -1,0 +1,169 @@
+/* AnimalMap.css */
+
+/* 复用之前的变量，保持风格统一 */
+:root {
+  --primary-color: #10b981; /* 翡翠绿 */
+  --primary-dark: #059669;
+  --bg-color: #f3f4f6;      /* 浅灰背景 */
+  --card-bg: #ffffff;       /* 卡片白 */
+  --text-main: #1f2937;     /* 深灰文字 */
+  --text-light: #f9fafb;    /* 亮色文字（用于标题背景） */
+  --border-radius: 12px;
+  --shadow-lg: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+}
+
+/* 页面整体容器 */
+.animal-map-page {
+  width:100vw;
+  padding: 40px 20px;
+  background-color: var(--bg-color);
+  min-height: 100vh;
+  font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+  color: var(--text-main);
+  box-sizing: border-box;
+}
+
+/* 1. 大标题居中样式 */
+.animal-map-page h1 {
+  text-align: center;
+  color: var(--text-main);
+  font-size: 2.5rem;
+  margin-bottom: 30px;
+  font-weight: 700;
+  letter-spacing: -0.025em;
+  /* 加一点装饰线 */
+  position: relative;
+  display: inline-block;
+  width: 100%;
+}
+
+.animal-map-page h1::after {
+  content: '';
+  display: block;
+  width: 60px;
+  height: 4px;
+  background-color: var(--primary-color);
+  margin: 10px auto 0;
+  border-radius: 2px;
+}
+
+/* 2. 地图容器样式 (占90%宽度) */
+.map-wrapper {
+  width: 90% !important; /* 强制覆盖内联样式 */
+  margin: 0 auto;        /* 水平居中 */
+  border-radius: var(--border-radius);
+  overflow: hidden;      /* 防止地图溢出圆角 */
+  box-shadow: var(--shadow-lg);
+  border: 4px solid var(--card-bg); /* 给地图加一个白色边框，像照片一样 */
+  background-color: #e5e7eb; /* 加载前的占位色 */
+  position: relative;
+}
+
+/* -----------------------------------------------------------
+   3. Cesium InfoBox (详细信息弹窗) 深度定制
+   注意：Cesium 的弹窗类名通常以 cesium-infoBox 开头
+----------------------------------------------------------- */
+
+/* 弹窗外壳 */
+.cesium-infoBox {
+  background: var(--card-bg);
+  border-radius: var(--border-radius);
+  border: none;
+  box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+  color: var(--text-main);
+  top: 60px; /* 距离顶部稍微远一点 */
+  right: 20px;
+  width: 300px; /*稍微宽一点 */
+  opacity: 1 !important; /* 强制不透明 */
+  transition: all 0.3s ease;
+}
+
+/* 弹窗标题栏 */
+.cesium-infoBox-title {
+  background-color: var(--primary-color);
+  color: var(--text-light);
+  font-family: 'Segoe UI', sans-serif;
+  font-size: 1.1rem;
+  padding: 12px 15px;
+  border-top-left-radius: var(--border-radius);
+  border-top-right-radius: var(--border-radius);
+  font-weight: 600;
+  text-align: left;
+}
+
+/* 隐藏 Cesium 默认的相机图标 */
+.cesium-infoBox-camera {
+  display: none;
+}
+
+/* 弹窗内容主体区域 */
+.cesium-infoBox-body {
+  background-color: var(--card-bg);
+  color: var(--text-main);
+  padding: 0; /* 让内部 HTML 决定 padding */
+  border: none;
+  max-height: 400px;
+}
+
+/* 描述文本的 Iframe 容器 (Cesium 默认用 iframe 渲染描述) 
+   我们需要确保 iframe 背景也是白色的 */
+.cesium-infoBox-iframe {
+  background-color: var(--card-bg) !important;
+  color: var(--text-main) !important;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+/* 关闭按钮 */
+.cesium-infoBox-close {
+  color: white;
+  background: transparent;
+  border: none;
+  font-size: 1.2rem;
+  top: 10px;
+  right: 10px;
+  opacity: 0.8;
+  transition: opacity 0.2s;
+}
+
+.cesium-infoBox-close:hover {
+  background: rgba(255,255,255,0.2);
+  border-radius: 50%;
+  opacity: 1;
+}
+
+/* --- Cesium 其他控件的美化 (可选) --- */
+
+/* 隐藏底部 Logo (如果允许的话，开发环境通常隐藏) */
+.cesium-viewer-bottom {
+  display: none; 
+}
+
+/* 右上角工具栏按钮美化 */
+.cesium-viewer-toolbar {
+  top: 15px;
+  right: 15px;
+}
+
+.cesium-button {
+  background-color: rgba(255, 255, 255, 0.9);
+  fill: var(--text-main); /* SVG 图标颜色 */
+  border-radius: 8px;
+  margin-left: 8px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  transition: background-color 0.2s;
+}
+
+.cesium-button:hover {
+  background-color: var(--primary-color);
+  fill: white; /* 悬停时图标变白 */
+  box-shadow: 0 4px 8px rgba(0,0,0,0.15);
+}
+
+/* 针对你在 JS 中写的 HTML description 的样式 
+   (如果 Cesium 不是以 iframe 模式加载，这会生效；
+   如果是 iframe，这些样式需要内联写在 JS 字符串里，或者注入 iframe)
+*/
+.cesium-infoBox-body b {
+  color: var(--primary-color);
+  font-weight: 600;
+}

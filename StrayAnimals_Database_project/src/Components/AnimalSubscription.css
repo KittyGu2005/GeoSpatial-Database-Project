@@ -1,0 +1,247 @@
+/* AnimalSubscription.css */
+
+/* 定义全局变量，方便统一配色 */
+:root {
+  --primary-color: #10b981; /* 清新的翡翠绿 */
+  --primary-hover: #059669;
+  --danger-color: #ef4444;  /* 警告红 */
+  --danger-hover: #dc2626;
+  --bg-color: #f3f4f6;      /* 浅灰背景 */
+  --card-bg: #ffffff;       /* 卡片白 */
+  --text-main: #1f2937;     /* 深灰文字 */
+  --text-secondary: #6b7280;/* 浅灰文字 */
+  --border-radius: 12px;
+  --shadow-sm: 0 1px 2px 0 rgba(0, 0, 0, 0.05);
+  --shadow-md: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+  --shadow-lg: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+}
+
+/* 基础容器设置 */
+.animal-subscription-container {
+  width: calc(100vw - 40px);
+  margin: 0 auto;
+  padding: 40px 20px;
+  font-family: 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+  background-color: var(--bg-color);
+  min-height: 100vh;
+  color: var(--text-main);
+}
+
+/* 标题样式 */
+h1 {
+  text-align: center;
+  color: var(--text-main);
+  font-size: 2.5rem;
+  margin-bottom: 30px;
+  font-weight: 700;
+  letter-spacing: -0.025em;
+}
+
+h2 {
+  font-size: 1.5rem;
+  color: var(--text-main);
+  margin-bottom: 20px;
+  border-left: 5px solid var(--primary-color);
+  padding-left: 15px;
+}
+
+/* 用户信息区域 */
+.user-info {
+  background-color: var(--card-bg);
+  padding: 20px;
+  border-radius: var(--border-radius);
+  box-shadow: var(--shadow-sm);
+  margin-bottom: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.user-info h2 {
+  border: none;
+  margin: 0;
+  padding: 0;
+}
+
+/* 区域通用样式 */
+.section {
+  margin-bottom: 50px;
+}
+
+/* 加载动画 */
+.loading {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  font-size: 1.5rem;
+  color: var(--primary-color);
+  font-weight: bold;
+}
+
+/* --- 网格布局 (用于可订阅动物) --- */
+.animals-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); /* 响应式Grid */
+  gap: 24px;
+}
+
+/* 动物卡片样式 */
+.animal-card {
+  background: var(--card-bg);
+  border-radius: var(--border-radius);
+  padding: 24px;
+  box-shadow: var(--shadow-md);
+  transition: all 0.3s ease;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  overflow: hidden;
+}
+
+/* 卡片悬停效果：上浮 + 阴影加深 */
+.animal-card:hover {
+  transform: translateY(-5px);
+  box-shadow: var(--shadow-lg);
+}
+
+.animal-card h3 {
+  margin-top: 0;
+  font-size: 1.25rem;
+  color: var(--text-main);
+  margin-bottom: 12px;
+}
+
+.animal-card p {
+  color: var(--text-secondary);
+  font-size: 0.95rem;
+  margin: 6px 0;
+  line-height: 1.5;
+}
+
+.animal-card strong {
+  color: var(--text-main);
+  font-weight: 600;
+}
+
+/* --- 订阅列表布局 --- */
+.subscriptions-list {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+/* 详细订阅卡片样式 */
+.subscription-card {
+  background: var(--card-bg);
+  border-radius: var(--border-radius);
+  padding: 24px;
+  box-shadow: var(--shadow-md);
+  display: flex;
+  flex-direction: column;
+  transition: transform 0.2s ease;
+  border: 1px solid #e5e7eb;
+}
+
+/* 平板/桌面端改为左右布局 */
+@media (min-width: 768px) {
+  .subscription-card {
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: space-between;
+  }
+}
+
+.subscription-info {
+  flex: 1;
+  display: grid;
+  grid-template-columns: 1fr; /* 移动端单列 */
+  gap: 8px 20px;
+}
+
+/* 桌面端订阅信息显示为双列 */
+@media (min-width: 600px) {
+  .subscription-info {
+    grid-template-columns: repeat(2, 1fr);
+  }
+  /* 让标题和描述占据整行 */
+  .subscription-info h3, 
+  .subscription-info p:last-child {
+    grid-column: 1 / -1;
+  }
+}
+
+.subscription-info h3 {
+  margin-top: 0;
+  margin-bottom: 10px;
+  color: var(--primary-color);
+  font-size: 1.4rem;
+}
+
+/* --- 按钮样式 --- */
+button {
+  cursor: pointer;
+  border: none;
+  font-size: 1rem;
+  font-weight: 600;
+  padding: 10px 20px;
+  border-radius: 8px;
+  transition: background-color 0.2s ease, transform 0.1s ease;
+  outline: none;
+}
+
+button:active {
+  transform: scale(0.98);
+}
+
+/* 订阅按钮 (主按钮) */
+.subscribe-btn.subscribe {
+  background-color: var(--primary-color);
+  color: white;
+  margin-top: 15px;
+  width: 100%;
+}
+
+.subscribe-btn.subscribe:hover {
+  background-color: var(--primary-hover);
+}
+
+/* 取消订阅按钮 (通用) */
+.unsubscribe-btn, 
+.subscribe-btn.unsubscribe {
+  background-color: white;
+  color: var(--danger-color);
+  border: 2px solid var(--danger-color);
+  margin-top: 15px;
+  width: 100%;
+}
+
+.unsubscribe-btn:hover, 
+.subscribe-btn.unsubscribe:hover {
+  background-color: var(--danger-color);
+  color: white;
+}
+
+/* 订阅列表里的按钮宽度自适应 */
+@media (min-width: 768px) {
+  .unsubscribe-btn {
+    width: auto;
+    margin-top: 0;
+    margin-left: 20px;
+    align-self: center; /* 垂直居中 */
+  }
+}
+
+/* 禁用状态 */
+button:disabled {
+  background-color: #d1d5db;
+  border-color: #d1d5db;
+  color: #9ca3af;
+  cursor: not-allowed;
+  transform: none;
+}
+
+/* 状态标签样式优化 (针对 healthy/neutered 等) */
+p strong {
+  margin-right: 5px;
+}

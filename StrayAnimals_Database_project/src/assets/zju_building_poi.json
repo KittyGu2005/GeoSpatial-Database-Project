@@ -1,0 +1,8180 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2025-12-29T02:32:57Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/971913608",
+        "building": "train_station",
+        "layer": "-1",
+        "name": "浙大紫金港",
+        "name:en": "Zijinggang Campus, Zhejiang University",
+        "name:zh": "浙大紫金港",
+        "operator": "杭州杭港地铁五号线有限公司",
+        "ref": "5",
+        "start_date": "-",
+        "wikidata": "Q21245992",
+        "@tainted": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            120.0720342,
+            30.2966608
+          ],
+          [
+            120.0728732,
+            30.2960369
+          ],
+          [
+            120.0720018,
+            30.2957897
+          ],
+          [
+            120.0712566,
+            30.2962739
+          ]
+        ]
+      },
+      "id": "way/971913608"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1365500182",
+        "highway": "tertiary",
+        "name": "紫萱路",
+        "name:zh": "紫萱路"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            120.0691714,
+            30.3121344
+          ],
+          [
+            120.0689454,
+            30.3120453
+          ]
+        ]
+      },
+      "id": "way/1365500182"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/4423359",
+        "cycleway": "lane",
+        "highway": "secondary_link",
+        "lanes": "3",
+        "lit": "yes",
+        "name": "紫金港路",
+        "name:en": "Zijingang Road",
+        "name:zh": "紫金港路",
+        "name:zh-Latn-pinyin": "Zǐjīngǎng Lù",
+        "oneway": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0790275,
+          30.2941584
+        ]
+      },
+      "id": "way/4423359"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/154084751",
+        "highway": "residential",
+        "name": "泰和路",
+        "oneway": "no",
+        "surface": "asphalt",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0809294,
+          30.3127728
+        ]
+      },
+      "id": "way/154084751"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/154085643",
+        "highway": "tertiary",
+        "name": "西园三路",
+        "oneway": "no",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0651559,
+          30.3122313
+        ]
+      },
+      "id": "way/154085643"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/161322492",
+        "amenity": "public_building",
+        "building": "yes",
+        "name": "食堂",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0798078,
+          30.3103269
+        ]
+      },
+      "id": "way/161322492"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/161322822",
+        "leisure": "pitch",
+        "name": "紫金港西田径场",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0770801,
+          30.30737
+        ]
+      },
+      "id": "way/161322822"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/161324040",
+        "building": "yes",
+        "building:levels": "18",
+        "height": "56",
+        "name": "管理学院/行政楼",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0832872,
+          30.3057949
+        ]
+      },
+      "id": "way/161324040"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/161324277",
+        "landuse": "grass",
+        "name": "大草坪",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0852713,
+          30.3071196
+        ]
+      },
+      "id": "way/161324277"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/161325273",
+        "building": "yes",
+        "building:levels": "1",
+        "height": "7",
+        "name": "临水报告厅",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0834857,
+          30.3041012
+        ]
+      },
+      "id": "way/161325273"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/161325315",
+        "building": "university",
+        "building:levels": "5",
+        "height": "16",
+        "name": "东1教学楼",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0842456,
+          30.3046489
+        ]
+      },
+      "id": "way/161325315"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/161325385",
+        "building": "yes",
+        "building:levels": "3",
+        "layer": "1",
+        "name": "东2教学楼",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0849604,
+          30.3036962
+        ]
+      },
+      "id": "way/161325385"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/161393058",
+        "building": "university",
+        "name": "东3教学楼",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0843929,
+          30.3027809
+        ]
+      },
+      "id": "way/161393058"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/161393066",
+        "building": "university",
+        "name": "东4教学楼",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.084287,
+          30.3015127
+        ]
+      },
+      "id": "way/161393066"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/161393397",
+        "building": "dormitory",
+        "name": "紫云1舍",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0777982,
+          30.309846
+        ]
+      },
+      "id": "way/161393397"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/161393402",
+        "building": "dormitory",
+        "name": "紫云2舍",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0776774,
+          30.3104111
+        ]
+      },
+      "id": "way/161393402"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/161393431",
+        "building": "dormitory",
+        "name": "紫云3舍",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.078174,
+          30.3105087
+        ]
+      },
+      "id": "way/161393431"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/161393432",
+        "building": "dormitory",
+        "name": "紫云5舍",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0782978,
+          30.3099172
+        ]
+      },
+      "id": "way/161393432"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/161393434",
+        "building": "dormitory",
+        "name": "紫云4舍",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0782311,
+          30.3102094
+        ]
+      },
+      "id": "way/161393434"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/161416716",
+        "building": "yes",
+        "name": "西1教学楼",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0800909,
+          30.3048106
+        ]
+      },
+      "id": "way/161416716"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/161417065",
+        "building": "yes",
+        "building:levels": "1",
+        "height": "14",
+        "name": "体育馆",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0844705,
+          30.3084729
+        ]
+      },
+      "id": "way/161417065"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/216939230",
+        "highway": "tertiary",
+        "name": "崇仁路",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0721333,
+          30.2956055
+        ]
+      },
+      "id": "way/216939230"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/216939232",
+        "highway": "tertiary",
+        "name": "弘德路",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0686096,
+          30.2953653
+        ]
+      },
+      "id": "way/216939232"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/232499325",
+        "amenity": "theatre",
+        "building": "yes",
+        "name": "小剧场A座",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0812253,
+          30.3062587
+        ]
+      },
+      "id": "way/232499325"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/232499590",
+        "building": "university",
+        "name": "西2教学楼",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0800833,
+          30.3038926
+        ]
+      },
+      "id": "way/232499590"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/232500960",
+        "leaf_cycle": "evergreen",
+        "leaf_type": "mixed",
+        "name": "校友林",
+        "natural": "wood",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0801314,
+          30.3082997
+        ]
+      },
+      "id": "way/232500960"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/237808342",
+        "addr:city": "杭州",
+        "addr:housename": "浙大紫金港校区 蓝田1舍",
+        "addr:housenumber": "388",
+        "addr:postcode": "310058",
+        "addr:street": "余杭塘路",
+        "building": "dormitory",
+        "building:levels": "6",
+        "name": "蓝田1舍",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0777837,
+          30.312101
+        ]
+      },
+      "id": "way/237808342"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/237808500",
+        "building": "yes",
+        "building:levels": "5",
+        "name": "小剧场B座",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0809098,
+          30.3062632
+        ]
+      },
+      "id": "way/237808500"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/237810385",
+        "building": "yes",
+        "name": "西3教学楼",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0810792,
+          30.3046889
+        ]
+      },
+      "id": "way/237810385"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/237810386",
+        "building": "yes",
+        "name": "西3教学楼",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0812275,
+          30.3042605
+        ]
+      },
+      "id": "way/237810386"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/237810387",
+        "building": "yes",
+        "name": "西3教学楼",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0813659,
+          30.3038613
+        ]
+      },
+      "id": "way/237810387"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/237810388",
+        "building": "yes",
+        "name": "西4教学楼",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0803835,
+          30.3025399
+        ]
+      },
+      "id": "way/237810388"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/237810389",
+        "building": "university",
+        "name": "浙江大学医学院",
+        "name:en": "Zhejiang University School of Medicine",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0795693,
+          30.2984411
+        ]
+      },
+      "id": "way/237810389"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/237812466",
+        "building": "yes",
+        "building:levels": "4",
+        "height": "16",
+        "name": "浙江大学基础图书馆",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.083702,
+          30.3061194
+        ]
+      },
+      "id": "way/237812466"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/237812468",
+        "amenity": "hospital",
+        "building": "yes",
+        "healthcare": "hospital",
+        "healthcare:speciality": "general",
+        "name": "紫金港校医院",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0837191,
+          30.3115569
+        ]
+      },
+      "id": "way/237812468"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/237812469",
+        "addr:housenumber": "866",
+        "addr:street": "Yuhangtang Road",
+        "building": "yes",
+        "internet_access": "wlan",
+        "name": "圆正·启真酒店",
+        "name:en": "Yuanzheng Qizhen Hotel",
+        "name:zh": "圆正·启真酒店",
+        "tourism": "hotel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0828202,
+          30.312697
+        ]
+      },
+      "id": "way/237812469"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/252088092",
+        "leisure": "pitch",
+        "name": "紫云篮球场",
+        "name:zh": "紫金港校区东篮球场",
+        "sport": "basketball",
+        "surface": "acrylic",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0779851,
+          30.3091065
+        ]
+      },
+      "id": "way/252088092"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/252088093",
+        "access": "yes",
+        "indoor": "yes",
+        "leisure": "pitch",
+        "loc_name": "气膜馆",
+        "name": "紫云网球场",
+        "sport": "tennis",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0767422,
+          30.3090363
+        ]
+      },
+      "id": "way/252088093"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/252581090",
+        "building": "yes",
+        "name": "金工实习中心",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.077816,
+          30.3020308
+        ]
+      },
+      "id": "way/252581090"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/252581201",
+        "building": "yes",
+        "name": "南华园",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0812355,
+          30.3004196
+        ]
+      },
+      "id": "way/252581201"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/255623985",
+        "building": "yes",
+        "name": "浙江大学人体博物馆",
+        "tourism": "museum",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0791298,
+          30.2982615
+        ]
+      },
+      "id": "way/255623985"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/255623986",
+        "building": "university",
+        "name": "浙江大学药学院",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0812694,
+          30.2989252
+        ]
+      },
+      "id": "way/255623986"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/255623987",
+        "building": "university",
+        "name": "浙江大学实验动物中心",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0814942,
+          30.2978669
+        ]
+      },
+      "id": "way/255623987"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/255623997",
+        "building": "yes",
+        "name": "生物实验中心",
+        "name:en": "Biology Lab Center",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0781968,
+          30.3000426
+        ]
+      },
+      "id": "way/255623997"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/255623998",
+        "building": "yes",
+        "name": "周厚复楼（化学实验中心）",
+        "name:en": "Chemistry Experimental Center",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0787372,
+          30.3014042
+        ]
+      },
+      "id": "way/255623998"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/288874061",
+        "building": "dormitory",
+        "name": "碧峰2舍",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0769697,
+          30.3102884
+        ]
+      },
+      "id": "way/288874061"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/288874062",
+        "building": "dormitory",
+        "name": "碧峰1舍",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0770773,
+          30.3097258
+        ]
+      },
+      "id": "way/288874062"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/288874063",
+        "building": "dormitory",
+        "name": "碧峰5舍",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0765732,
+          30.3096282
+        ]
+      },
+      "id": "way/288874063"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/288874064",
+        "building": "dormitory",
+        "name": "碧峰4舍",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0765181,
+          30.309937
+        ]
+      },
+      "id": "way/288874064"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/288874065",
+        "building": "dormitory",
+        "name": "碧峰3舍",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0764444,
+          30.3102477
+        ]
+      },
+      "id": "way/288874065"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/288874844",
+        "amenity": "university",
+        "name": "浙江大学紫金港校区",
+        "name:en": "Zhejiang University Zijingang Campus",
+        "name:zh": "浙江大学紫金港校区",
+        "wikidata": "Q8071853",
+        "wikipedia": "zh:浙江大学紫金港校区",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0752256,
+          30.3049933
+        ]
+      },
+      "id": "way/288874844"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/290793378",
+        "bridge": "yes",
+        "highway": "primary",
+        "layer": "1",
+        "name": "余杭塘路",
+        "name:en": "Yuhangtang Road",
+        "oneway": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.080979,
+          30.2967311
+        ]
+      },
+      "id": "way/290793378"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/290793379",
+        "highway": "primary",
+        "name": "余杭塘路",
+        "name:en": "Yuhangtang Road",
+        "oneway": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0851339,
+          30.2970768
+        ]
+      },
+      "id": "way/290793379"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/302556946",
+        "building": "dormitory",
+        "name": "蓝田4舍",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0763716,
+          30.3111178
+        ]
+      },
+      "id": "way/302556946"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/304067028",
+        "highway": "secondary",
+        "name": "余杭塘路",
+        "name:en": "Yuhangtang Road",
+        "oneway": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0653237,
+          30.2966421
+        ]
+      },
+      "id": "way/304067028"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/305829554",
+        "building": "dormitory",
+        "name": "蓝田3舍",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0762807,
+          30.311861
+        ]
+      },
+      "id": "way/305829554"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/305829555",
+        "building": "dormitory",
+        "name": "蓝田5舍",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0772542,
+          30.3108383
+        ]
+      },
+      "id": "way/305829555"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/305829556",
+        "building": "dormitory",
+        "name": "蓝田6舍",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0779006,
+          30.3113733
+        ]
+      },
+      "id": "way/305829556"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/305829557",
+        "building": "dormitory",
+        "name": "丹阳1舍",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0794136,
+          30.3111307
+        ]
+      },
+      "id": "way/305829557"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/305829558",
+        "building": "dormitory",
+        "name": "丹阳2舍",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.078877,
+          30.3110447
+        ]
+      },
+      "id": "way/305829558"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/305835702",
+        "highway": "trunk",
+        "layer": "-1",
+        "motorroad": "yes",
+        "name": "紫金港路隧道",
+        "oneway": "yes",
+        "tunnel": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0755252,
+          30.3105757
+        ]
+      },
+      "id": "way/305835702"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/305835705",
+        "cycleway": "lane",
+        "highway": "secondary_link",
+        "lanes": "3",
+        "lit": "yes",
+        "name": "紫金港路",
+        "name:en": "Zijingang Road",
+        "name:zh": "紫金港路",
+        "name:zh-Latn-pinyin": "Zǐjīngǎng Lù",
+        "oneway": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0796749,
+          30.2936375
+        ]
+      },
+      "id": "way/305835705"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/306101588",
+        "leaf_cycle": "evergreen",
+        "leaf_type": "mixed",
+        "name": "校友林",
+        "natural": "wood",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0819632,
+          30.3096311
+        ]
+      },
+      "id": "way/306101588"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/306105473",
+        "building": "dormitory",
+        "name": "白沙1舍",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0815342,
+          30.310995
+        ]
+      },
+      "id": "way/306105473"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/306105478",
+        "building": "apartments",
+        "name": "留学生宿舍",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0822699,
+          30.3115883
+        ]
+      },
+      "id": "way/306105478"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/306105479",
+        "building": "apartments",
+        "name": "留学生宿舍",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0819182,
+          30.3122398
+        ]
+      },
+      "id": "way/306105479"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/306105480",
+        "building": "dormitory",
+        "name": "丹阳3,4舍",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0788963,
+          30.3116049
+        ]
+      },
+      "id": "way/306105480"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/306105481",
+        "building": "dormitory",
+        "name": "丹阳5舍",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0791905,
+          30.3122233
+        ]
+      },
+      "id": "way/306105481"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/306105482",
+        "building": "dormitory",
+        "name": "丹阳6舍",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0786837,
+          30.3121541
+        ]
+      },
+      "id": "way/306105482"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/306105483",
+        "landuse": "grass",
+        "name": "蓝田学园草坪",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0770711,
+          30.3115968
+        ]
+      },
+      "id": "way/306105483"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/306105489",
+        "building": "dormitory",
+        "name": "青溪1,2舍",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0802119,
+          30.3114057
+        ]
+      },
+      "id": "way/306105489"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/306105490",
+        "building": "dormitory",
+        "name": "青溪3,4舍",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0800387,
+          30.3121554
+        ]
+      },
+      "id": "way/306105490"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/306105495",
+        "landuse": "residential",
+        "name": "港湾家园",
+        "name:en": "Gangwan Jiayuan",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0804258,
+          30.313867
+        ]
+      },
+      "id": "way/306105495"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/306107352",
+        "building": "yes",
+        "name": "西1辅楼",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0807673,
+          30.3051879
+        ]
+      },
+      "id": "way/306107352"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/322217078",
+        "highway": "trunk",
+        "layer": "-1",
+        "motorroad": "yes",
+        "name": "紫金港路隧道",
+        "oneway": "yes",
+        "tunnel": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.075384,
+          30.3105371
+        ]
+      },
+      "id": "way/322217078"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/322217080",
+        "highway": "primary",
+        "name": "余杭塘路",
+        "name:en": "Yuhangtang Road",
+        "oneway": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.076056,
+          30.2960802
+        ]
+      },
+      "id": "way/322217080"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/322217082",
+        "bridge": "yes",
+        "highway": "primary",
+        "layer": "1",
+        "name": "余杭塘路",
+        "name:en": "Yuhangtang Road",
+        "oneway": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0812182,
+          30.2966813
+        ]
+      },
+      "id": "way/322217082"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/322220203",
+        "highway": "unclassified",
+        "name": "五常港路（浙大校内段）",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0678494,
+          30.3033957
+        ]
+      },
+      "id": "way/322220203"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/322644186",
+        "landuse": "residential",
+        "name": "望月公寓",
+        "name:en": "Wangyue Gongyu",
+        "name:zh": "望月公寓",
+        "residential": "apartments",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0851239,
+          30.3140556
+        ]
+      },
+      "id": "way/322644186"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/322644189",
+        "building": "yes",
+        "name": "浙江大学艺术与考古博物馆",
+        "tourism": "museum",
+        "wikidata": "Q82952331",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0667415,
+          30.3000809
+        ]
+      },
+      "id": "way/322644189"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/407852428",
+        "bridge": "yes",
+        "highway": "footway",
+        "layer": "1",
+        "name": "小木屋平台",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0798222,
+          30.3080229
+        ]
+      },
+      "id": "way/407852428"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/407852429",
+        "name": "小木屋",
+        "shop": "beverages",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0798338,
+          30.308057
+        ]
+      },
+      "id": "way/407852429"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/408887316",
+        "building": "dormitory",
+        "name": "翠柏4舍",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0810593,
+          30.3125056
+        ]
+      },
+      "id": "way/408887316"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/408887320",
+        "building": "dormitory",
+        "name": "白沙3舍",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0823516,
+          30.3110184
+        ]
+      },
+      "id": "way/408887320"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/408887333",
+        "building": "dormitory",
+        "name": "白沙2舍",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0815396,
+          30.3106413
+        ]
+      },
+      "id": "way/408887333"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/408887334",
+        "historic": "memorial",
+        "memorial": "statue",
+        "name": "孙中山雕像",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0814514,
+          30.3047737
+        ]
+      },
+      "id": "way/408887334"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/408887340",
+        "building": "dormitory",
+        "name": "翠柏1舍",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0812685,
+          30.3113733
+        ]
+      },
+      "id": "way/408887340"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/408887342",
+        "building": "dormitory",
+        "name": "白沙4舍",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0822967,
+          30.3106178
+        ]
+      },
+      "id": "way/408887342"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/408887346",
+        "building": "dormitory",
+        "name": "白沙3-4舍大厅",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.082148,
+          30.3108047
+        ]
+      },
+      "id": "way/408887346"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/408887347",
+        "building": "dormitory",
+        "name": "翠柏3舍",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0810633,
+          30.3121149
+        ]
+      },
+      "id": "way/408887347"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/408887350",
+        "building": "dormitory",
+        "name": "翠柏2舍",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0811364,
+          30.3117456
+        ]
+      },
+      "id": "way/408887350"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/408887354",
+        "building": "dormitory",
+        "name": "翠柏3-4舍大厅",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0812497,
+          30.3123344
+        ]
+      },
+      "id": "way/408887354"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/408887358",
+        "building": "dormitory",
+        "name": "翠柏1-2舍大厅",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0813932,
+          30.3115982
+        ]
+      },
+      "id": "way/408887358"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/408887360",
+        "building": "dormitory",
+        "name": "白沙1-2舍大厅",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0817025,
+          30.3108497
+        ]
+      },
+      "id": "way/408887360"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/408887361",
+        "building": "yes",
+        "name": "白沙综合楼",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.081464,
+          30.3103702
+        ]
+      },
+      "id": "way/408887361"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/411343678",
+        "alt_name": "农生环E座",
+        "building": "university",
+        "name": "动物科学学院",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0849957,
+          30.3001154
+        ]
+      },
+      "id": "way/411343678"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/411343679",
+        "building": "university",
+        "name": "安中大楼A座",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0786737,
+          30.3037458
+        ]
+      },
+      "id": "way/411343679"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/411343681",
+        "building": "university",
+        "name": "安中大楼B座",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0786717,
+          30.3041852
+        ]
+      },
+      "id": "way/411343681"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/411343682",
+        "building": "university",
+        "name": "安中大楼",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0790359,
+          30.3039681
+        ]
+      },
+      "id": "way/411343682"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/411343683",
+        "building": "university",
+        "building:levels": "5",
+        "name": "月牙楼",
+        "name:en": "Crescent building",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0817527,
+          30.3074609
+        ]
+      },
+      "id": "way/411343683"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/411343684",
+        "building": "university",
+        "name": "建工试验大厅",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.077544,
+          30.3041136
+        ]
+      },
+      "id": "way/411343684"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/411343685",
+        "building": "university",
+        "name": "海洋试验大厅",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0775498,
+          30.3051691
+        ]
+      },
+      "id": "way/411343685"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/411343687",
+        "historic": "memorial",
+        "inscription": "江西浙江大学校友会赠",
+        "memorial": "ding",
+        "name": "求是鼎",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0833147,
+          30.3001741
+        ]
+      },
+      "id": "way/411343687"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/411343688",
+        "building": "university",
+        "name": "浙江加州国际纳米技术研究所",
+        "short_name": "纳米楼",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0841517,
+          30.3000061
+        ]
+      },
+      "id": "way/411343688"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/411343689",
+        "alt_name": "李摩西楼",
+        "building": "university",
+        "name": "浙江大学校友活动中心",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0837588,
+          30.3006053
+        ]
+      },
+      "id": "way/411343689"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/411343690",
+        "building": "university",
+        "name": "浙江大学行政楼",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0838849,
+          30.29962
+        ]
+      },
+      "id": "way/411343690"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/411343691",
+        "highway": "unclassified",
+        "lanes": "1",
+        "name": "迪臣路",
+        "oneway": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0788041,
+          30.3057741
+        ]
+      },
+      "id": "way/411343691"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/411343692",
+        "highway": "unclassified",
+        "lanes": "1",
+        "name": "迪臣路",
+        "oneway": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0788738,
+          30.3057777
+        ]
+      },
+      "id": "way/411343692"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/411343694",
+        "highway": "unclassified",
+        "lanes": "1",
+        "lit": "yes",
+        "name": "遵义路",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0793986,
+          30.2992569
+        ]
+      },
+      "id": "way/411343694"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/411343696",
+        "highway": "unclassified",
+        "name": "藕舫路",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0843505,
+          30.30521
+        ]
+      },
+      "id": "way/411343696"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/411343697",
+        "highway": "unclassified",
+        "lanes": "1",
+        "lit": "yes",
+        "name": "遵义路",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0862956,
+          30.2993522
+        ]
+      },
+      "id": "way/411343697"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/411343699",
+        "highway": "unclassified",
+        "lanes": "1",
+        "lit": "yes",
+        "name": "遵义路",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0862968,
+          30.2992758
+        ]
+      },
+      "id": "way/411343699"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/411343700",
+        "highway": "unclassified",
+        "name": "藕舫路",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0844634,
+          30.3053435
+        ]
+      },
+      "id": "way/411343700"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/411343701",
+        "highway": "unclassified",
+        "lanes": "1",
+        "lit": "yes",
+        "name": "遵义路",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0793992,
+          30.2993071
+        ]
+      },
+      "id": "way/411343701"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/415697412",
+        "building": "university",
+        "name": "水电中心",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0839074,
+          30.2987425
+        ]
+      },
+      "id": "way/415697412"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/415697414",
+        "alt_name": "浙江大学昆虫科学研究所人工气候室",
+        "building": "university",
+        "name": "浙江大学农业试验站农业科技园管委会",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0840424,
+          30.2984118
+        ]
+      },
+      "id": "way/415697414"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/424012297",
+        "highway": "unclassified",
+        "name": "宜山路",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0838572,
+          30.3071585
+        ]
+      },
+      "id": "way/424012297"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/424012298",
+        "highway": "unclassified",
+        "name": "宜山路",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0772568,
+          30.3062463
+        ]
+      },
+      "id": "way/424012298"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/424012300",
+        "bridge": "yes",
+        "bridge:structure": "arch",
+        "highway": "unclassified",
+        "layer": "1",
+        "name": "阳明桥",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0831546,
+          30.3070616
+        ]
+      },
+      "id": "way/424012300"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/437790194",
+        "highway": "trunk",
+        "motorroad": "yes",
+        "name": "留石高架路",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.070882,
+          30.311445
+        ]
+      },
+      "id": "way/437790194"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/445920822",
+        "landuse": "grass",
+        "name": "情人坡",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0817323,
+          30.3032738
+        ]
+      },
+      "id": "way/445920822"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/445920823",
+        "bridge": "yes",
+        "bridge:structure": "arch",
+        "highway": "footway",
+        "layer": "1",
+        "name": "杨家桥",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0717428,
+          30.2975023
+        ]
+      },
+      "id": "way/445920823"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/445920824",
+        "landuse": "grass",
+        "leisure": "park",
+        "name": "湖心岛",
+        "place": "islet",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0825651,
+          30.3023707
+        ]
+      },
+      "id": "way/445920824"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/445920829",
+        "landuse": "grass",
+        "name": "西区大草坪",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0824075,
+          30.3003752
+        ]
+      },
+      "id": "way/445920829"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/446943883",
+        "construction": "secondary",
+        "highway": "tertiary",
+        "name": "龙宇街",
+        "oneway": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0836139,
+          30.3108962
+        ]
+      },
+      "id": "way/446943883"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/448480118",
+        "amenity": "library",
+        "building": "university",
+        "name": "浙江大学紫金港校区农医图书馆",
+        "operator": "浙江大学",
+        "short_name": "医图",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0826818,
+          30.2984867
+        ]
+      },
+      "id": "way/448480118"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/448480119",
+        "amenity": "restaurant",
+        "building": "yes",
+        "name": "麦香餐厅",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0824133,
+          30.2981865
+        ]
+      },
+      "id": "way/448480119"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/479420773",
+        "covered": "yes",
+        "highway": "unclassified",
+        "name": "宜山路",
+        "tunnel": "building_passage",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0813016,
+          30.306754
+        ]
+      },
+      "id": "way/479420773"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/479420774",
+        "highway": "unclassified",
+        "name": "宜山路",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0819858,
+          30.3068669
+        ]
+      },
+      "id": "way/479420774"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/504974784",
+        "building": "university",
+        "name": "生命科学学院",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0852687,
+          30.29873
+        ]
+      },
+      "id": "way/504974784"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/519369424",
+        "highway": "primary",
+        "name": "余杭塘路",
+        "name:en": "Yuhangtang Road",
+        "oneway": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0645261,
+          30.2969564
+        ]
+      },
+      "id": "way/519369424"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/519369426",
+        "highway": "primary",
+        "name": "余杭塘路",
+        "name:en": "Yuhangtang Road",
+        "oneway": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0643654,
+          30.2968397
+        ]
+      },
+      "id": "way/519369426"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/519369434",
+        "addr:city": "杭州市",
+        "addr:district": "西湖区",
+        "addr:housenumber": "866",
+        "addr:province": "浙江省",
+        "addr:street": "余杭塘路",
+        "building": "yes",
+        "layer": "1",
+        "name": "浙江大学南大门",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0769816,
+          30.297658
+        ]
+      },
+      "id": "way/519369434"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/519369447",
+        "highway": "tertiary",
+        "name": "龙宇街",
+        "oneway": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0855125,
+          30.3117183
+        ]
+      },
+      "id": "way/519369447"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/519369449",
+        "building": "construction",
+        "leisure": "sports_centre",
+        "name": "室内游泳馆",
+        "sport": "swimming",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0840829,
+          30.310053
+        ]
+      },
+      "id": "way/519369449"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/529029530",
+        "building": "university",
+        "name": "求是大讲堂",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0747256,
+          30.3042973
+        ]
+      },
+      "id": "way/529029530"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/543883197",
+        "building": "apartments",
+        "name": "蓝田2舍",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0769636,
+          30.3123531
+        ]
+      },
+      "id": "way/543883197"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/549281888",
+        "highway": "primary",
+        "name": "石祥西路",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0765627,
+          30.314133
+        ]
+      },
+      "id": "way/549281888"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/549281891",
+        "highway": "primary",
+        "name": "紫金港北路",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0746767,
+          30.3148226
+        ]
+      },
+      "id": "way/549281891"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/549281892",
+        "highway": "primary",
+        "name": "紫金港北路",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.073825,
+          30.3157031
+        ]
+      },
+      "id": "way/549281892"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/549281894",
+        "highway": "primary",
+        "name": "石祥西路",
+        "oneway": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0709187,
+          30.3113018
+        ]
+      },
+      "id": "way/549281894"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/549281896",
+        "highway": "trunk",
+        "name": "石祥西路",
+        "oneway": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0792235,
+          30.3147706
+        ]
+      },
+      "id": "way/549281896"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/555424462",
+        "bridge": "yes",
+        "construction": "secondary",
+        "highway": "tertiary",
+        "layer": "1",
+        "name": "龙宇街",
+        "oneway": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0841755,
+          30.3111969
+        ]
+      },
+      "id": "way/555424462"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/555424468",
+        "construction": "secondary",
+        "highway": "tertiary",
+        "name": "龙宇街",
+        "oneway": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.085544,
+          30.3116281
+        ]
+      },
+      "id": "way/555424468"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/555424473",
+        "bridge": "yes",
+        "highway": "tertiary",
+        "layer": "1",
+        "name": "龙宇街",
+        "oneway": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0841377,
+          30.3112828
+        ]
+      },
+      "id": "way/555424473"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/555424477",
+        "highway": "tertiary",
+        "name": "龙宇街",
+        "oneway": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0836718,
+          30.3110841
+        ]
+      },
+      "id": "way/555424477"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/562767221",
+        "leisure": "park",
+        "name": "月牙楼广场",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0805871,
+          30.3068141
+        ]
+      },
+      "id": "way/562767221"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/587415777",
+        "intermittent": "no",
+        "name": "余杭塘河",
+        "waterway": "river",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0710363,
+          30.3002368
+        ]
+      },
+      "id": "way/587415777"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/594458405",
+        "highway": "secondary",
+        "name": "蒋墩路",
+        "oneway": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0654398,
+          30.2953331
+        ]
+      },
+      "id": "way/594458405"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/594458410",
+        "highway": "secondary",
+        "name": "蒋墩路",
+        "oneway": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0652749,
+          30.29534
+        ]
+      },
+      "id": "way/594458410"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/594458411",
+        "highway": "primary",
+        "name": "余杭塘路",
+        "name:en": "Yuhangtang Road",
+        "oneway": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0777177,
+          30.2959748
+        ]
+      },
+      "id": "way/594458411"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/594458415",
+        "highway": "secondary",
+        "name": "蒋墩路",
+        "oneway": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0653919,
+          30.2971993
+        ]
+      },
+      "id": "way/594458415"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/594797111",
+        "highway": "tertiary",
+        "name": "紫萱路",
+        "name:zh": "紫萱路",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0706444,
+          30.3145585
+        ]
+      },
+      "id": "way/594797111"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/594805173",
+        "highway": "trunk",
+        "layer": "-2",
+        "motorroad": "yes",
+        "name": "紫金港路隧道",
+        "oneway": "yes",
+        "tunnel": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.078074,
+          30.2973457
+        ]
+      },
+      "id": "way/594805173"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/595770623",
+        "highway": "primary",
+        "name": "余杭塘路",
+        "name:en": "Yuhangtang Road",
+        "oneway": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0850485,
+          30.2971935
+        ]
+      },
+      "id": "way/595770623"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/614260756",
+        "building": "yes",
+        "name": "学生服务中心",
+        "name:zh": "尧坤楼",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0677469,
+          30.3018139
+        ]
+      },
+      "id": "way/614260756"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/614260757",
+        "building": "yes",
+        "name": "惟学1幢",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0672499,
+          30.3082056
+        ]
+      },
+      "id": "way/614260757"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/639059983",
+        "addr:city": "杭州市",
+        "addr:district": "西湖区",
+        "addr:housenumber": "532",
+        "addr:province": "浙江省",
+        "addr:street": "文一西路",
+        "amenity": "school",
+        "name": "杭州绿城育华学校",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0812735,
+          30.2925655
+        ]
+      },
+      "id": "way/639059983"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/652569971",
+        "highway": "unclassified",
+        "name": "泰和路",
+        "oneway": "no",
+        "surface": "asphalt",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0801566,
+          30.3125845
+        ]
+      },
+      "id": "way/652569971"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/674580449",
+        "leisure": "park",
+        "name": "紫金园",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.084622,
+          30.2957011
+        ]
+      },
+      "id": "way/674580449"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/674610896",
+        "landuse": "residential",
+        "name": "宝嘉誉府",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0786834,
+          30.3156697
+        ]
+      },
+      "id": "way/674610896"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/674610899",
+        "building": "yes",
+        "name": "美豪酒店(杭州浙大西溪紫金港旗舰店)",
+        "tourism": "hotel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0755549,
+          30.3149378
+        ]
+      },
+      "id": "way/674610899"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/674610903",
+        "landuse": "industrial",
+        "name": "紫金创业园",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0709978,
+          30.3106935
+        ]
+      },
+      "id": "way/674610903"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/680671285",
+        "addr:city": "杭州市",
+        "addr:district": "西湖区",
+        "addr:housenumber": "1001",
+        "addr:province": "浙江省",
+        "addr:street": "余杭塘路",
+        "building": "yes",
+        "name": "龙湖·西溪天街",
+        "operator": "龙湖地产",
+        "shop": "mall",
+        "wikipedia": "zh:龍湖地產",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0640967,
+          30.2959172
+        ]
+      },
+      "id": "way/680671285"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/680671292",
+        "landuse": "commercial",
+        "name": "绿城.西溪世纪中心",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0667571,
+          30.2942972
+        ]
+      },
+      "id": "way/680671292"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/680671293",
+        "landuse": "commercial",
+        "name": "杭州西溪银泰城",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0702525,
+          30.2953573
+        ]
+      },
+      "id": "way/680671293"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/680671294",
+        "landuse": "residential",
+        "name": "绿城·致诚苑",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0737498,
+          30.295102
+        ]
+      },
+      "id": "way/680671294"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/680671296",
+        "landuse": "residential",
+        "name": "蒋村西溪人家",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0769691,
+          30.2948628
+        ]
+      },
+      "id": "way/680671296"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/703248077",
+        "building": "yes",
+        "name": "惟学2幢",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.067691,
+          30.3082217
+        ]
+      },
+      "id": "way/703248077"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/703248079",
+        "building": "yes",
+        "name": "澄月学园1舍",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0757441,
+          30.2988204
+        ]
+      },
+      "id": "way/703248079"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/703248080",
+        "building": "yes",
+        "name": "澄月学园2舍",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0757052,
+          30.2984926
+        ]
+      },
+      "id": "way/703248080"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/703248086",
+        "building": "dormitory",
+        "name": "澄月学园3舍",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0745829,
+          30.2981543
+        ]
+      },
+      "id": "way/703248086"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/703248087",
+        "building": "dormitory",
+        "name": "澄月学园4舍",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0746005,
+          30.2978722
+        ]
+      },
+      "id": "way/703248087"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/703248089",
+        "building": "yes",
+        "name": "研究生教育综合楼",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0756867,
+          30.2978753
+        ]
+      },
+      "id": "way/703248089"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/703248091",
+        "building": "dormitory",
+        "name": "澄月学园5舍",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0737411,
+          30.2987006
+        ]
+      },
+      "id": "way/703248091"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/703248092",
+        "alt_name": "浙江大学紫金港校区留学生公寓C2",
+        "building": "dormitory",
+        "name": "澄月学园6舍",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0737258,
+          30.2981749
+        ]
+      },
+      "id": "way/703248092"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/703248093",
+        "building": "dormitory",
+        "name": "澄月学园7舍",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0737277,
+          30.297792
+        ]
+      },
+      "id": "way/703248093"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/703248094",
+        "building": "yes",
+        "name": "浙江大学国际教育学院",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0727734,
+          30.298754
+        ]
+      },
+      "id": "way/703248094"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/703248095",
+        "building": "yes",
+        "name": "留学生行政楼",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0726463,
+          30.2986189
+        ]
+      },
+      "id": "way/703248095"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/703248096",
+        "building": "dormitory",
+        "name": "澄月学园8舍",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0727778,
+          30.2980787
+        ]
+      },
+      "id": "way/703248096"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/703249692",
+        "building": "yes",
+        "name": "基础交叉研究院",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0760457,
+          30.3044646
+        ]
+      },
+      "id": "way/703249692"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/703251437",
+        "building": "yes",
+        "name": "人文学院",
+        "name:zh": "成均苑4幢",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0752775,
+          30.3003519
+        ]
+      },
+      "id": "way/703251437"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/703251439",
+        "building": "college",
+        "name": "马克思主义学院",
+        "name:zh": "成均苑2幢",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.075559,
+          30.2999291
+        ]
+      },
+      "id": "way/703251439"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/703251440",
+        "building": "college",
+        "name": "传媒与国际文化学院",
+        "name:zh": "成均苑1幢",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0753104,
+          30.2995947
+        ]
+      },
+      "id": "way/703251440"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/703251441",
+        "building": "yes",
+        "name": "古籍图书馆",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0746319,
+          30.3002341
+        ]
+      },
+      "id": "way/703251441"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/703251442",
+        "building": "college",
+        "name": "经济学院",
+        "name:zh": "成均苑7幢",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0739631,
+          30.3003772
+        ]
+      },
+      "id": "way/703251442"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/703251443",
+        "building": "college",
+        "name": "公共管理学院",
+        "name:zh": "成均苑9幢",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0734715,
+          30.2999779
+        ]
+      },
+      "id": "way/703251443"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/703251444",
+        "building": "college",
+        "name": "教育学院",
+        "name:zh": "成均苑10幢",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0737838,
+          30.2996659
+        ]
+      },
+      "id": "way/703251444"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/703251447",
+        "building": "college",
+        "name": "科意大楼-财务核算中心",
+        "name:zh": "成均苑8幢",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0728579,
+          30.3000042
+        ]
+      },
+      "id": "way/703251447"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/703251450",
+        "alt_name": "浙江大学管理学院",
+        "building": "yes",
+        "name": "管理学院",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0710032,
+          30.298622
+        ]
+      },
+      "id": "way/703251450"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/703251451",
+        "building": "university",
+        "name": "玉湖6、7舍",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0677303,
+          30.3011233
+        ]
+      },
+      "id": "way/703251451"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/703251452",
+        "building": "university",
+        "name": "玉湖4、5舍",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0662865,
+          30.3011179
+        ]
+      },
+      "id": "way/703251452"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/703251457",
+        "building": "university",
+        "name": "玉湖1、2舍",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0664434,
+          30.3023586
+        ]
+      },
+      "id": "way/703251457"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/703251458",
+        "building": "yes",
+        "name": "海纳苑2幢（数学科学学院）",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0708857,
+          30.3002276
+        ]
+      },
+      "id": "way/703251458"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/703251460",
+        "building": "university",
+        "name": "海纳苑1幢（地球科学学院）",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0698559,
+          30.3004278
+        ]
+      },
+      "id": "way/703251460"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/703251461",
+        "building": "university",
+        "name": "海纳苑8幢（物理学院）",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0692626,
+          30.3015184
+        ]
+      },
+      "id": "way/703251461"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/703251462",
+        "building": "yes",
+        "name": "海纳苑4幢（理学部大楼）",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0703705,
+          30.3012813
+        ]
+      },
+      "id": "way/703251462"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/703251463",
+        "building": "university",
+        "name": "海纳苑3幢（心理系）",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0706649,
+          30.3008632
+        ]
+      },
+      "id": "way/703251463"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/703251464",
+        "building": "university",
+        "name": "海纳苑7幢",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.069686,
+          30.3025953
+        ]
+      },
+      "id": "way/703251464"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/703277016",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "name": "蒋墩路公交总站",
+        "public_transport": "station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0642549,
+          30.2974977
+        ]
+      },
+      "id": "way/703277016"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/703780622",
+        "landuse": "residential",
+        "name": "德萃公寓",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0699483,
+          30.3123211
+        ]
+      },
+      "id": "way/703780622"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/703780623",
+        "landuse": "residential",
+        "name": "乾成园",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0683528,
+          30.3146267
+        ]
+      },
+      "id": "way/703780623"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/741500139",
+        "highway": "secondary",
+        "name": "蒋墩路",
+        "oneway": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0645181,
+          30.3055386
+        ]
+      },
+      "id": "way/741500139"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/741500140",
+        "bridge": "yes",
+        "highway": "secondary",
+        "layer": "1",
+        "name": "花蒋桥",
+        "oneway": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0651691,
+          30.2986266
+        ]
+      },
+      "id": "way/741500140"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/741500141",
+        "bridge": "yes",
+        "highway": "secondary",
+        "layer": "1",
+        "name": "花蒋桥",
+        "oneway": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0653178,
+          30.2986135
+        ]
+      },
+      "id": "way/741500141"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/741500142",
+        "highway": "secondary",
+        "name": "蒋墩路",
+        "oneway": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0652138,
+          30.2972178
+        ]
+      },
+      "id": "way/741500142"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/741500143",
+        "name": "水上巴士2号线",
+        "name:en": "Water Bus Line 2",
+        "name:ja": "水上バス2号線",
+        "route": "ferry",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.1015787,
+          30.2924776
+        ]
+      },
+      "id": "way/741500143"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/785696808",
+        "highway": "trunk",
+        "motorroad": "yes",
+        "name": "留石高架路",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0803906,
+          30.3154429
+        ]
+      },
+      "id": "way/785696808"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/785696809",
+        "bridge": "yes",
+        "highway": "trunk",
+        "layer": "1",
+        "motorroad": "yes",
+        "name": "留石高架路",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0737142,
+          30.3127742
+        ]
+      },
+      "id": "way/785696809"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/831164210",
+        "bridge": "yes",
+        "highway": "primary",
+        "layer": "1",
+        "name": "石祥西路",
+        "oneway": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0737147,
+          30.3129019
+        ]
+      },
+      "id": "way/831164210"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/831164211",
+        "highway": "primary",
+        "name": "石祥西路",
+        "oneway": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0708705,
+          30.3117304
+        ]
+      },
+      "id": "way/831164211"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/831612419",
+        "bridge": "yes",
+        "highway": "secondary",
+        "layer": "1",
+        "name": "蒋墩路",
+        "oneway": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0652006,
+          30.3020311
+        ]
+      },
+      "id": "way/831612419"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/831612420",
+        "highway": "secondary",
+        "name": "蒋墩路",
+        "oneway": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0652339,
+          30.3007197
+        ]
+      },
+      "id": "way/831612420"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/831685642",
+        "highway": "trunk",
+        "motorroad": "yes",
+        "name": "留石高架路",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0708709,
+          30.311582
+        ]
+      },
+      "id": "way/831685642"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/831685643",
+        "highway": "trunk",
+        "motorroad": "yes",
+        "name": "留石高架路",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.077397,
+          30.3143567
+        ]
+      },
+      "id": "way/831685643"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/832076751",
+        "bridge": "yes",
+        "highway": "secondary",
+        "layer": "1",
+        "name": "蒋墩路",
+        "oneway": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0650465,
+          30.3020148
+        ]
+      },
+      "id": "way/832076751"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/832076752",
+        "highway": "secondary",
+        "name": "蒋墩路",
+        "oneway": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0650936,
+          30.3007175
+        ]
+      },
+      "id": "way/832076752"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/832135417",
+        "highway": "primary",
+        "name": "余杭塘路",
+        "name:en": "Yuhangtang Road",
+        "oneway": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0669045,
+          30.2967948
+        ]
+      },
+      "id": "way/832135417"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/832135418",
+        "bridge": "yes",
+        "highway": "primary",
+        "layer": "1",
+        "name": "余杭塘路",
+        "name:en": "Yuhangtang Road",
+        "oneway": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0686075,
+          30.2967995
+        ]
+      },
+      "id": "way/832135418"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/832523625",
+        "bridge": "yes",
+        "highway": "primary",
+        "layer": "1",
+        "name": "石祥西路",
+        "oneway": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0737417,
+          30.3125109
+        ]
+      },
+      "id": "way/832523625"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/832523626",
+        "highway": "primary",
+        "name": "石祥西路",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0762412,
+          30.3135221
+        ]
+      },
+      "id": "way/832523626"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/833745227",
+        "bridge": "yes",
+        "highway": "primary",
+        "layer": "1",
+        "name": "余杭塘路",
+        "name:en": "Yuhangtang Road",
+        "oneway": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.068558,
+          30.2966556
+        ]
+      },
+      "id": "way/833745227"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/833745228",
+        "highway": "primary",
+        "name": "余杭塘路",
+        "name:en": "Yuhangtang Road",
+        "oneway": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0668814,
+          30.2966465
+        ]
+      },
+      "id": "way/833745228"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/833811454",
+        "highway": "trunk",
+        "motorroad": "yes",
+        "name": "留石高架路",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0765449,
+          30.3138178
+        ]
+      },
+      "id": "way/833811454"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/833811455",
+        "bridge": "yes",
+        "highway": "trunk",
+        "layer": "1",
+        "motorroad": "yes",
+        "name": "留石高架路",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0737465,
+          30.3126432
+        ]
+      },
+      "id": "way/833811455"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/834652922",
+        "highway": "tertiary",
+        "name": "博创街",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0742632,
+          30.3117315
+        ]
+      },
+      "id": "way/834652922"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/834652923",
+        "bridge": "yes",
+        "highway": "tertiary",
+        "layer": "1",
+        "name": "博创街",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0735289,
+          30.3114245
+        ]
+      },
+      "id": "way/834652923"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/836285090",
+        "highway": "residential",
+        "name": "泰和路",
+        "oneway": "no",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0828757,
+          30.3130698
+        ]
+      },
+      "id": "way/836285090"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/836285091",
+        "bridge": "yes",
+        "highway": "residential",
+        "layer": "1",
+        "name": "泰和路",
+        "surface": "asphalt",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.082334,
+          30.3129932
+        ]
+      },
+      "id": "way/836285091"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/836286197",
+        "bridge": "yes",
+        "highway": "unclassified",
+        "layer": "1",
+        "name": "泰和路",
+        "surface": "asphalt",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0822901,
+          30.3129206
+        ]
+      },
+      "id": "way/836286197"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/836286198",
+        "highway": "residential",
+        "name": "泰和路",
+        "oneway": "no",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0825253,
+          30.3129573
+        ]
+      },
+      "id": "way/836286198"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/841181311",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1435",
+        "layer": "-2",
+        "maxspeed": "80",
+        "name": "杭州地铁5号线",
+        "name:en": "Hangzhou Metro Line 5",
+        "name:zh": "杭州地铁5号线",
+        "oneway": "yes",
+        "passenger_lines": "2",
+        "railway": "subway",
+        "ref": "5",
+        "tunnel": "yes",
+        "voltage": "1500",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0351914,
+          30.2900106
+        ]
+      },
+      "id": "way/841181311"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/970274730",
+        "bridge": "yes",
+        "highway": "primary",
+        "layer": "1",
+        "name": "石祥西路",
+        "oneway": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0681352,
+          30.3106
+        ]
+      },
+      "id": "way/970274730"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/970274744",
+        "highway": "primary",
+        "name": "石祥西路",
+        "oneway": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0658796,
+          30.3096763
+        ]
+      },
+      "id": "way/970274744"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/970280345",
+        "bridge": "yes",
+        "highway": "trunk",
+        "layer": "1",
+        "motorroad": "yes",
+        "name": "留石高架路",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0649394,
+          30.3091129
+        ]
+      },
+      "id": "way/970280345"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/970280346",
+        "bridge": "yes",
+        "highway": "trunk",
+        "layer": "1",
+        "motorroad": "yes",
+        "name": "留石高架路",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0650081,
+          30.3089893
+        ]
+      },
+      "id": "way/970280346"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/971913608",
+        "building": "train_station",
+        "layer": "-1",
+        "name": "浙大紫金港",
+        "name:en": "Zijinggang Campus, Zhejiang University",
+        "name:zh": "浙大紫金港",
+        "operator": "杭州杭港地铁五号线有限公司",
+        "ref": "5",
+        "start_date": "-",
+        "wikidata": "Q21245992",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0718519,
+          30.2962744
+        ]
+      },
+      "id": "way/971913608"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/975584462",
+        "embankment": "yes",
+        "highway": "trunk",
+        "motorroad": "yes",
+        "name": "留石高架路",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0663601,
+          30.3096769
+        ]
+      },
+      "id": "way/975584462"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/975584463",
+        "embankment": "yes",
+        "highway": "trunk",
+        "motorroad": "yes",
+        "name": "留石高架路",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0664343,
+          30.3095657
+        ]
+      },
+      "id": "way/975584463"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/982001088",
+        "building": "apartments",
+        "building:levels": "7",
+        "height": "21",
+        "name": "港湾家园26幢",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0836766,
+          30.3126162
+        ]
+      },
+      "id": "way/982001088"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/982001089",
+        "building": "apartments",
+        "building:levels": "7",
+        "height": "21",
+        "name": "港湾家园27幢",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0837014,
+          30.3123045
+        ]
+      },
+      "id": "way/982001089"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/982001090",
+        "building": "apartments",
+        "building:levels": "7",
+        "height": "21",
+        "name": "港湾家园25幢",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0836255,
+          30.3129777
+        ]
+      },
+      "id": "way/982001090"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1032412954",
+        "highway": "tertiary",
+        "name": "博创街",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0709493,
+          30.3103417
+        ]
+      },
+      "id": "way/1032412954"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1032412955",
+        "bridge": "yes",
+        "highway": "tertiary",
+        "layer": "1",
+        "name": "博创街",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0684087,
+          30.3092743
+        ]
+      },
+      "id": "way/1032412955"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1032412956",
+        "highway": "trunk",
+        "motorroad": "yes",
+        "name": "留石高架路",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0675265,
+          30.3100365
+        ]
+      },
+      "id": "way/1032412956"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1032412957",
+        "highway": "trunk",
+        "motorroad": "yes",
+        "name": "留石高架路",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0674769,
+          30.3101508
+        ]
+      },
+      "id": "way/1032412957"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1032412959",
+        "bridge": "yes",
+        "highway": "primary",
+        "layer": "1",
+        "name": "石祥西路",
+        "oneway": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0682362,
+          30.3101451
+        ]
+      },
+      "id": "way/1032412959"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1032412960",
+        "bridge": "yes",
+        "highway": "trunk",
+        "layer": "1",
+        "motorroad": "yes",
+        "name": "留石高架路",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0681973,
+          30.3103201
+        ]
+      },
+      "id": "way/1032412960"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1032412961",
+        "bridge": "yes",
+        "highway": "trunk",
+        "layer": "1",
+        "motorroad": "yes",
+        "name": "留石高架路",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0681692,
+          30.3104474
+        ]
+      },
+      "id": "way/1032412961"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1032412962",
+        "highway": "tertiary",
+        "name": "西园三路",
+        "oneway": "no",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0686982,
+          30.3135222
+        ]
+      },
+      "id": "way/1032412962"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1032412963",
+        "bridge": "yes",
+        "highway": "tertiary",
+        "layer": "1",
+        "name": "西园三路",
+        "oneway": "no",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0676797,
+          30.3132039
+        ]
+      },
+      "id": "way/1032412963"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1032412966",
+        "highway": "unclassified",
+        "name": "宜山路",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0807603,
+          30.3066672
+        ]
+      },
+      "id": "way/1032412966"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1032412967",
+        "bridge": "yes",
+        "highway": "unclassified",
+        "layer": "1",
+        "name": "宜山路",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0801794,
+          30.3065756
+        ]
+      },
+      "id": "way/1032412967"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1032412972",
+        "highway": "trunk",
+        "lanes": "2",
+        "layer": "-2",
+        "maxspeed": "60",
+        "motorroad": "yes",
+        "name": "紫金港路隧道",
+        "oneway": "yes",
+        "tunnel": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0768675,
+          30.3017341
+        ]
+      },
+      "id": "way/1032412972"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1032412973",
+        "highway": "trunk",
+        "lanes": "2",
+        "layer": "-2",
+        "maxspeed": "60",
+        "motorroad": "yes",
+        "name": "紫金港路隧道",
+        "oneway": "yes",
+        "tunnel": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0780018,
+          30.2991392
+        ]
+      },
+      "id": "way/1032412973"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1032412974",
+        "highway": "trunk",
+        "lanes": "2",
+        "layer": "-2",
+        "maxspeed": "60",
+        "motorroad": "yes",
+        "name": "紫金港路隧道",
+        "oneway": "yes",
+        "tunnel": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.076553,
+          30.3053509
+        ]
+      },
+      "id": "way/1032412974"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1032412975",
+        "highway": "trunk",
+        "lanes": "2",
+        "layer": "-2",
+        "maxspeed": "60",
+        "motorroad": "yes",
+        "name": "紫金港路隧道",
+        "oneway": "yes",
+        "tunnel": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0763891,
+          30.3053109
+        ]
+      },
+      "id": "way/1032412975"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1058245042",
+        "bridge": "yes",
+        "highway": "tertiary",
+        "layer": "1",
+        "name": "紫萱路",
+        "name:zh": "紫萱路",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0677864,
+          30.3115885
+        ]
+      },
+      "id": "way/1058245042"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1058245043",
+        "highway": "tertiary",
+        "name": "西园四路",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0653663,
+          30.3125261
+        ]
+      },
+      "id": "way/1058245043"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1061614484",
+        "highway": "footway",
+        "name": "余杭塘河绿道",
+        "surface": "paving_stones",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0921744,
+          30.2869964
+        ]
+      },
+      "id": "way/1061614484"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1073555298",
+        "building": "university",
+        "name": "海洋大楼",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0785504,
+          30.3047841
+        ]
+      },
+      "id": "way/1073555298"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1073571920",
+        "building": "transportation",
+        "name": "A",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0719621,
+          30.2966771
+        ]
+      },
+      "id": "way/1073571920"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1073571925",
+        "building": "transportation",
+        "name": "C2",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.072795,
+          30.2960485
+        ]
+      },
+      "id": "way/1073571925"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1073571926",
+        "building": "transportation",
+        "name": "垂梯",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0716432,
+          30.2962234
+        ]
+      },
+      "id": "way/1073571926"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1079476693",
+        "highway": "trunk",
+        "lanes": "2",
+        "maxspeed": "60",
+        "motorroad": "yes",
+        "name": "紫金港路隧道",
+        "oneway": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0743495,
+          30.3148902
+        ]
+      },
+      "id": "way/1079476693"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1079476696",
+        "highway": "trunk",
+        "motorroad": "yes",
+        "name": "紫金港路隧道",
+        "oneway": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0742469,
+          30.3156308
+        ]
+      },
+      "id": "way/1079476696"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1083073674",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1435",
+        "layer": "-2",
+        "maxspeed": "80",
+        "name": "杭州地铁5号线",
+        "name:en": "Hangzhou Metro Line 5",
+        "name:zh": "杭州地铁5号线",
+        "oneway": "yes",
+        "passenger_lines": "2",
+        "railway": "subway",
+        "ref": "5",
+        "tunnel": "yes",
+        "voltage": "1500",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0827541,
+          30.3007994
+        ]
+      },
+      "id": "way/1083073674"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1083073675",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1435",
+        "layer": "-2",
+        "maxspeed": "80",
+        "name": "杭州地铁5号线",
+        "name:en": "Hangzhou Metro Line 5",
+        "name:zh": "杭州地铁5号线",
+        "oneway": "yes",
+        "passenger_lines": "2",
+        "railway": "subway",
+        "ref": "5",
+        "tunnel": "yes",
+        "voltage": "1500",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0827374,
+          30.3006558
+        ]
+      },
+      "id": "way/1083073675"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1083073676",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1435",
+        "layer": "-3",
+        "maxspeed": "80",
+        "name": "杭州地铁5号线",
+        "name:en": "Hangzhou Metro Line 5",
+        "name:zh": "杭州地铁5号线",
+        "oneway": "yes",
+        "passenger_lines": "2",
+        "railway": "subway",
+        "ref": "5",
+        "tunnel": "yes",
+        "voltage": "1500",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0772201,
+          30.2983269
+        ]
+      },
+      "id": "way/1083073676"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1083073677",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1435",
+        "layer": "-3",
+        "maxspeed": "80",
+        "name": "杭州地铁5号线",
+        "name:en": "Hangzhou Metro Line 5",
+        "name:zh": "杭州地铁5号线",
+        "oneway": "yes",
+        "passenger_lines": "2",
+        "railway": "subway",
+        "ref": "5",
+        "tunnel": "yes",
+        "voltage": "1500",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0773545,
+          30.2982459
+        ]
+      },
+      "id": "way/1083073677"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1112645053",
+        "building": "university",
+        "name": "北4教学楼",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0716619,
+          30.3076575
+        ]
+      },
+      "id": "way/1112645053"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1112645054",
+        "building": "university",
+        "name": "北3教学楼",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0726342,
+          30.3080717
+        ]
+      },
+      "id": "way/1112645054"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1112645055",
+        "building": "university",
+        "name": "北1教学楼",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0720024,
+          30.3069711
+        ]
+      },
+      "id": "way/1112645055"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1112645056",
+        "building": "university",
+        "name": "北2教学楼",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0730672,
+          30.307417
+        ]
+      },
+      "id": "way/1112645056"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1112646409",
+        "building": "university",
+        "name": "新农村发展研究院",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0736799,
+          30.30853
+        ]
+      },
+      "id": "way/1112646409"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1112646411",
+        "leisure": "pitch",
+        "name": "银泉网球足球场",
+        "sport": "soccer",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0714825,
+          30.3096441
+        ]
+      },
+      "id": "way/1112646411"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1112646412",
+        "amenity": "restaurant",
+        "building": "yes",
+        "name": "银泉食堂",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0713672,
+          30.3085932
+        ]
+      },
+      "id": "way/1112646412"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1112646413",
+        "building": "university",
+        "name": "开物苑",
+        "name:zh": "机械工程学院",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0704789,
+          30.3068342
+        ]
+      },
+      "id": "way/1112646413"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1115890436",
+        "area": "yes",
+        "layer": "1",
+        "name": "段永平教学楼(北教学区)",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0723216,
+          30.3075304
+        ]
+      },
+      "id": "way/1115890436"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1122111924",
+        "building": "university",
+        "building:levels": "2",
+        "layer": "-1",
+        "name": "东教学区学生文化连廊",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0845109,
+          30.3036822
+        ]
+      },
+      "id": "way/1122111924"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1122290579",
+        "amenity": "restaurant",
+        "building": "university",
+        "cuisine": "chinese",
+        "diet:local": "yes",
+        "name": "玉湖餐厅",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0675862,
+          30.3024324
+        ]
+      },
+      "id": "way/1122290579"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1122290580",
+        "building": "university",
+        "name": "海纳苑5幢",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0701136,
+          30.3018585
+        ]
+      },
+      "id": "way/1122290580"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1122290581",
+        "building": "university",
+        "name": "海纳苑6幢",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0698599,
+          30.302253
+        ]
+      },
+      "id": "way/1122290581"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1125378161",
+        "building": "university",
+        "name": "和同苑1/2幢",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0687829,
+          30.3039679
+        ]
+      },
+      "id": "way/1125378161"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1125378162",
+        "building": "university",
+        "name": "材料科学与工程学院",
+        "name:zh": "和同苑9/10幢",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.068816,
+          30.3053111
+        ]
+      },
+      "id": "way/1125378162"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1125378163",
+        "building": "university",
+        "name": "高分子大楼",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0695283,
+          30.3055172
+        ]
+      },
+      "id": "way/1125378163"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1189188968",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1435",
+        "layer": "-2",
+        "maxspeed": "80",
+        "name": "杭州地铁5号线",
+        "name:en": "Hangzhou Metro Line 5",
+        "name:zh": "杭州地铁5号线",
+        "oneway": "yes",
+        "passenger_lines": "2",
+        "railway": "subway",
+        "ref": "5",
+        "tunnel": "yes",
+        "voltage": "1500",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0544905,
+          30.2976321
+        ]
+      },
+      "id": "way/1189188968"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1208408934",
+        "amenity": "library",
+        "building": "yes",
+        "internet_access": "wlan",
+        "internet_access:fee": "customers",
+        "name": "主图书馆",
+        "opening_hours": "Mo-Su 08:00-22:00",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.075609,
+          30.305337
+        ]
+      },
+      "id": "way/1208408934"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1208408936",
+        "leisure": "pitch",
+        "name": "银泉篮球场",
+        "sport": "basketball",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0723508,
+          30.3091383
+        ]
+      },
+      "id": "way/1208408936"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1219002302",
+        "admin_level": "8",
+        "boundary": "administrative",
+        "name": "蒋村文新线",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0862769,
+          30.2855752
+        ]
+      },
+      "id": "way/1219002302"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1219002304",
+        "admin_level": "8",
+        "boundary": "administrative",
+        "name": "三墩文新线",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0912282,
+          30.2969335
+        ]
+      },
+      "id": "way/1219002304"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1245558458",
+        "building": "service",
+        "name": "紫金港社区便民服务中心",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0775159,
+          30.3128733
+        ]
+      },
+      "id": "way/1245558458"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1302813125",
+        "building": "dormitory",
+        "name": "银泉学园8舍",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0669555,
+          30.3071632
+        ]
+      },
+      "id": "way/1302813125"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1302813126",
+        "building": "yes",
+        "name": "银泉学园7舍",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0678368,
+          30.3075566
+        ]
+      },
+      "id": "way/1302813126"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1334667915",
+        "building": "transportation",
+        "name": "B2",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0720146,
+          30.2958509
+        ]
+      },
+      "id": "way/1334667915"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1349759839",
+        "highway": "tertiary",
+        "name": "博创街",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0664009,
+          30.3084143
+        ]
+      },
+      "id": "way/1349759839"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1349768900",
+        "highway": "primary",
+        "name": "石祥西路",
+        "oneway": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0660816,
+          30.3092908
+        ]
+      },
+      "id": "way/1349768900"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1365291483",
+        "highway": "unclassified",
+        "name": "藕舫路",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0832987,
+          30.3120319
+        ]
+      },
+      "id": "way/1365291483"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1365291484",
+        "highway": "tertiary",
+        "name": "龙宇街",
+        "oneway": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0832899,
+          30.3109405
+        ]
+      },
+      "id": "way/1365291484"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1365291491",
+        "highway": "unclassified",
+        "name": "藕舫路",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0832315,
+          30.3118893
+        ]
+      },
+      "id": "way/1365291491"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1365291492",
+        "highway": "residential",
+        "name": "泰和路",
+        "oneway": "no",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.083203,
+          30.3131126
+        ]
+      },
+      "id": "way/1365291492"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1365291493",
+        "highway": "residential",
+        "name": "泰和路",
+        "oneway": "no",
+        "surface": "asphalt",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0789918,
+          30.3124712
+        ]
+      },
+      "id": "way/1365291493"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1365500177",
+        "highway": "tertiary",
+        "name": "紫萱路",
+        "name:zh": "紫萱路",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0684797,
+          30.3118617
+        ]
+      },
+      "id": "way/1365500177"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1365500178",
+        "highway": "tertiary",
+        "name": "紫萱路",
+        "name:zh": "紫萱路",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0695163,
+          30.3122704
+        ]
+      },
+      "id": "way/1365500178"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1365500182",
+        "highway": "tertiary",
+        "name": "紫萱路",
+        "name:zh": "紫萱路",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0690584,
+          30.3120898
+        ]
+      },
+      "id": "way/1365500182"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1365969961",
+        "highway": "secondary",
+        "name": "蒋墩路",
+        "oneway": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0650173,
+          30.30281
+        ]
+      },
+      "id": "way/1365969961"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1366037920",
+        "highway": "secondary",
+        "name": "蒋墩路",
+        "oneway": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0652264,
+          30.2967301
+        ]
+      },
+      "id": "way/1366037920"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1366037936",
+        "highway": "primary",
+        "name": "余杭塘路",
+        "name:en": "Yuhangtang Road",
+        "oneway": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0653163,
+          30.2968028
+        ]
+      },
+      "id": "way/1366037936"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1366037937",
+        "highway": "secondary",
+        "name": "蒋墩路",
+        "oneway": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0654136,
+          30.2967148
+        ]
+      },
+      "id": "way/1366037937"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1366520391",
+        "highway": "primary",
+        "name": "余杭塘路",
+        "name:en": "Yuhangtang Road",
+        "oneway": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0738084,
+          30.2960062
+        ]
+      },
+      "id": "way/1366520391"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1366520392",
+        "highway": "primary",
+        "name": "余杭塘路",
+        "name:en": "Yuhangtang Road",
+        "oneway": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0706306,
+          30.2964675
+        ]
+      },
+      "id": "way/1366520392"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1366520393",
+        "highway": "tertiary",
+        "name": "崇仁路",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0723072,
+          30.296343
+        ]
+      },
+      "id": "way/1366520393"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1370361926",
+        "highway": "primary",
+        "name": "余杭塘路",
+        "name:en": "Yuhangtang Road",
+        "oneway": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0705688,
+          30.296601
+        ]
+      },
+      "id": "way/1370361926"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1370361938",
+        "highway": "primary",
+        "name": "余杭塘路",
+        "name:en": "Yuhangtang Road",
+        "oneway": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0688696,
+          30.2966558
+        ]
+      },
+      "id": "way/1370361938"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1410577278",
+        "building": "university",
+        "name": "和同苑6/7幢",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0695109,
+          30.3051018
+        ]
+      },
+      "id": "way/1410577278"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1410577279",
+        "building": "university",
+        "name": "和同苑4/5幢",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0695124,
+          30.30429
+        ]
+      },
+      "id": "way/1410577279"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1410577280",
+        "building": "university",
+        "name": "永谦大楼",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0695607,
+          30.3038294
+        ]
+      },
+      "id": "way/1410577280"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1410577281",
+        "amenity": "veterinary",
+        "building": "yes",
+        "name": "浙江大学动物医院（紫金港总院）",
+        "name:zh": "浙大动物医学中心",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0741978,
+          30.3113166
+        ]
+      },
+      "id": "way/1410577281"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1410577284",
+        "landuse": "plant_nursery",
+        "name": "农业试验站教学温室",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0733798,
+          30.3093783
+        ]
+      },
+      "id": "way/1410577284"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1413237240",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "name": "彰教庙",
+        "religion": "buddhist",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0810132,
+          30.2957125
+        ]
+      },
+      "id": "way/1413237240"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1462301204",
+        "building": "apartments",
+        "name": "银泉学园1幢",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0702029,
+          30.3081879
+        ]
+      },
+      "id": "way/1462301204"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2456761421",
+        "amenity": "restaurant",
+        "cuisine": "食堂",
+        "name": "临湖餐厅"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0811619,
+          30.3059688
+        ]
+      },
+      "id": "node/2456761421"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2456762826",
+        "amenity": "restaurant",
+        "diet:halal": "yes",
+        "name": "清真食堂"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0792483,
+          30.3103106
+        ]
+      },
+      "id": "node/2456762826"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2456763339",
+        "amenity": "restaurant",
+        "name": "休闲餐厅"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0794092,
+          30.3102087
+        ]
+      },
+      "id": "node/2456763339"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2456766516",
+        "amenity": "restaurant",
+        "name": "西区食堂",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0794709,
+          30.3103338
+        ]
+      },
+      "id": "node/2456766516"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2456766517",
+        "amenity": "restaurant",
+        "name": "风味餐厅"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0802487,
+          30.3102805
+        ]
+      },
+      "id": "node/2456766517"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2456766518",
+        "amenity": "restaurant",
+        "name": "东区食堂"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0802326,
+          30.3103801
+        ]
+      },
+      "id": "node/2456766518"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2456766519",
+        "name": "浙江大学教育超市",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0800065,
+          30.3100886
+        ]
+      },
+      "id": "node/2456766519"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2456766520",
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "name": "接待餐厅"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0795755,
+          30.3102203
+        ]
+      },
+      "id": "node/2456766520"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2456794433",
+        "amenity": "bank",
+        "brand": "中国建设银行",
+        "brand:en": "China Construction Bank",
+        "brand:wikidata": "Q26299",
+        "brand:wikipedia": "en:China Construction Bank",
+        "brand:zh": "中国建设银行",
+        "name": "中国建设银行",
+        "name:en": "China Construction Bank",
+        "name:zh": "中国建设银行",
+        "opening_hours": "Mo-Sa 09:00-11:30, 14:00-16:30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0817744,
+          30.310302
+        ]
+      },
+      "id": "node/2456794433"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2456794434",
+        "amenity": "bank",
+        "brand": "中国农业银行",
+        "brand:en": "Agricultural Bank of China",
+        "brand:wikidata": "Q26298",
+        "brand:wikipedia": "en:Agricultural Bank of China",
+        "brand:zh": "中国农业银行",
+        "name": "中国农业银行",
+        "name:en": "Agricultural Bank of China",
+        "name:zh": "中国农业银行",
+        "opening_hours": "Mo-Sa 09:00-16:30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0811617,
+          30.3104467
+        ]
+      },
+      "id": "node/2456794434"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2613000722",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "name": "学院咖啡",
+        "name:en": "Academy Cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0796341,
+          30.2983445
+        ]
+      },
+      "id": "node/2613000722"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2613000726",
+        "name": "浙江大学教育超市",
+        "name:en": "Zhejiang University Education Superstore",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0791677,
+          30.2985006
+        ]
+      },
+      "id": "node/2613000726"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2942988754",
+        "bus": "yes",
+        "name": "余杭塘路崇信路口",
+        "name:zh": "余杭塘路崇信路口",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.076434,
+          30.2956384
+        ]
+      },
+      "id": "node/2942988754"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3105155917",
+        "amenity": "post_office",
+        "name": "紫金港圆通速递营业点",
+        "opening_hours": "8:40-19:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0805167,
+          30.3125372
+        ]
+      },
+      "id": "node/3105155917"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3105216214",
+        "highway": "motorway_junction",
+        "name": "紫石立交"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0748762,
+          30.3133934
+        ]
+      },
+      "id": "node/3105216214"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4098855924",
+        "historic": "monument",
+        "name": "浙江大学西迁纪念亭"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0800605,
+          30.3077934
+        ]
+      },
+      "id": "node/4098855924"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4107945667",
+        "layer": "1",
+        "name": "U-center",
+        "shop": "mobile_phone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0811341,
+          30.3106093
+        ]
+      },
+      "id": "node/4107945667"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4107945668",
+        "layer": "1",
+        "name": "中国移动西湖浙大紫金港校园店",
+        "opening_hours": "10:00-17:00",
+        "shop": "mobile_phone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0811844,
+          30.3104032
+        ]
+      },
+      "id": "node/4107945668"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4107945669",
+        "craft": "key_cutter",
+        "name": "修鞋表配钥匙"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0813142,
+          30.3112796
+        ]
+      },
+      "id": "node/4107945669"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4107945670",
+        "brand": "全家",
+        "brand:en": "FamilyMart",
+        "brand:wikidata": "Q11247682",
+        "brand:wikipedia": "zh:FamilyMart",
+        "brand:zh": "全家",
+        "name": "全家",
+        "name:en": "FamilyMart",
+        "name:zh": "全家",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0814179,
+          30.3112938
+        ]
+      },
+      "id": "node/4107945670"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4107945671",
+        "name": "启真便利",
+        "opening_hours": "Mo-Su 06:20-23:20",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0820989,
+          30.3106789
+        ]
+      },
+      "id": "node/4107945671"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4107945672",
+        "name": "多彩图文",
+        "shop": "copyshop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0810517,
+          30.3112438
+        ]
+      },
+      "id": "node/4107945672"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4107945673",
+        "name": "安琪儿自行车",
+        "shop": "bicycle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0809966,
+          30.3112362
+        ]
+      },
+      "id": "node/4107945673"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4107945674",
+        "name": "新鼎烘焙",
+        "shop": "bakery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0815482,
+          30.311503
+        ]
+      },
+      "id": "node/4107945674"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4107945675",
+        "name": "正装服饰",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0811796,
+          30.3112612
+        ]
+      },
+      "id": "node/4107945675"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4107945676",
+        "name": "求是报刊亭",
+        "shop": "kiosk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0811458,
+          30.3098912
+        ]
+      },
+      "id": "node/4107945676"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4107945677",
+        "name": "求是报刊亭",
+        "opening_hours": "Mo-Su 08:00-18:00",
+        "shop": "kiosk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0810492,
+          30.3108813
+        ]
+      },
+      "id": "node/4107945677"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4107945678",
+        "name": "求是报刊亭",
+        "shop": "kiosk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0786672,
+          30.3109452
+        ]
+      },
+      "id": "node/4107945678"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4107945679",
+        "layer": "1",
+        "name": "浙大求是眼镜",
+        "shop": "optician"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0811609,
+          30.3105109
+        ]
+      },
+      "id": "node/4107945679"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4107945680",
+        "amenity": "post_office",
+        "name": "浙大紫金港邮局代办所",
+        "opening_hours": "Mo-Su 09:00-15:30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0815063,
+          30.3110681
+        ]
+      },
+      "id": "node/4107945680"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4107945681",
+        "name": "浙大阿拉丁广告",
+        "opening_hours": "08:00-21:00",
+        "shop": "copyshop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0815897,
+          30.3102052
+        ]
+      },
+      "id": "node/4107945681"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4107945682",
+        "name": "浙大阿拉丁广告",
+        "shop": "copyshop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0813671,
+          30.3124888
+        ]
+      },
+      "id": "node/4107945682"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4107945683",
+        "amenity": "shelter",
+        "historic": "monument",
+        "name": "浙江大学西迁纪念碑",
+        "shelter_type": "weather_shelter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0800605,
+          30.3077934
+        ]
+      },
+      "id": "node/4107945683"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4107945684",
+        "amenity": "cafe",
+        "layer": "1",
+        "name": "爱享吧"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0816205,
+          30.3102301
+        ]
+      },
+      "id": "node/4107945684"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4107945685",
+        "name": "白沙打印店",
+        "opening_hours": "Mo-Su 07:40-22:40",
+        "shop": "copyshop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0818084,
+          30.3109613
+        ]
+      },
+      "id": "node/4107945685"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4107945686",
+        "name": "紫荆照相馆",
+        "shop": "photo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.081499,
+          30.3113049
+        ]
+      },
+      "id": "node/4107945686"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4107945687",
+        "name": "紫金体育",
+        "shop": "sports"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0812226,
+          30.3112671
+        ]
+      },
+      "id": "node/4107945687"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4107945688",
+        "name": "翠柏果园",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0815901,
+          30.3113173
+        ]
+      },
+      "id": "node/4107945688"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4107946461",
+        "amenity": "atm",
+        "brand": "中国建设银行",
+        "brand:en": "China Construction Bank",
+        "brand:wikidata": "Q26299",
+        "brand:wikipedia": "en:China Construction Bank",
+        "brand:zh": "中国建设银行",
+        "name": "中国建设银行",
+        "name:en": "China Construction Bank",
+        "name:zh": "中国建设银行",
+        "opening_hours": "24/7",
+        "operator": "中国建设银行",
+        "operator:wikidata": "Q26299",
+        "operator:wikipedia": "en:China Construction Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0816085,
+          30.3102608
+        ]
+      },
+      "id": "node/4107946461"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4107946497",
+        "amenity": "atm",
+        "brand": "中国农业银行",
+        "brand:en": "Agricultural Bank of China",
+        "brand:wikidata": "Q26298",
+        "brand:wikipedia": "en:Agricultural Bank of China",
+        "brand:zh": "中国农业银行",
+        "name": "中国农业银行",
+        "name:en": "Agricultural Bank of China",
+        "name:zh": "中国农业银行",
+        "opening_hours": "24/7",
+        "operator": "中国农业银行",
+        "operator:wikidata": "Q26298",
+        "operator:wikipedia": "en:Agricultural Bank of China"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0811374,
+          30.3105783
+        ]
+      },
+      "id": "node/4107946497"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4107946769",
+        "name": "蜜菓",
+        "shop": "beverages"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0811342,
+          30.311255
+        ]
+      },
+      "id": "node/4107946769"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4107946770",
+        "name": "阿华发艺",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0810939,
+          30.3112495
+        ]
+      },
+      "id": "node/4107946770"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4130341401",
+        "name": "小白候车点",
+        "public_transport": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0805502,
+          30.3109412
+        ]
+      },
+      "id": "node/4130341401"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4130341402",
+        "name": "建筑工程学院",
+        "natural": "stone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0791535,
+          30.3034134
+        ]
+      },
+      "id": "node/4130341402"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4130341403",
+        "name": "浙江大学行政服务办事大厅",
+        "office": "educational_institution"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.083905,
+          30.2995661
+        ]
+      },
+      "id": "node/4130341403"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4922007182",
+        "name": "浙大紫金港",
+        "name:en": "Zhejiang University Zijingang Campus",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0720704,
+          30.296436
+        ]
+      },
+      "id": "node/4922007182"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5551755009",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "杨家舍",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0673128,
+          30.2968919
+        ]
+      },
+      "id": "node/5551755009"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5668627555",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "杨家舍",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0680116,
+          30.2965789
+        ]
+      },
+      "id": "node/5668627555"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5668627556",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "余杭塘路崇信路口",
+        "name:zh": "余杭塘路崇信路口",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0744889,
+          30.2961394
+        ]
+      },
+      "id": "node/5668627556"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5668627557",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "余杭塘路崇信路口",
+        "name:zh": "余杭塘路崇信路口",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0764198,
+          30.2955675
+        ]
+      },
+      "id": "node/5668627557"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5842457795",
+        "amenity": "restaurant",
+        "capacity": "300",
+        "name": "藕舫厅",
+        "opening_hours": "11:30-14:00; 17:00-21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0827294,
+          30.3125494
+        ]
+      },
+      "id": "node/5842457795"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6089172587",
+        "bus": "yes",
+        "name": "余杭塘路崇信路口",
+        "name:zh": "余杭塘路崇信路口",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0745035,
+          30.2960394
+        ]
+      },
+      "id": "node/6089172587"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6383407648",
+        "name": "宜山路广场",
+        "place": "square"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0817704,
+          30.3071181
+        ]
+      },
+      "id": "node/6383407648"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6604499237",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "万安大桥",
+        "name:zh": "万安大桥",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0650301,
+          30.299916
+        ]
+      },
+      "id": "node/6604499237"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6604499238",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "万安大桥",
+        "name:zh": "万安大桥",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.06528,
+          30.3014005
+        ]
+      },
+      "id": "node/6604499238"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6604499315",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "俞家村",
+        "name:zh": "俞家村",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0652511,
+          30.3048593
+        ]
+      },
+      "id": "node/6604499315"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6604499318",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "石祥西路西园路口",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0652957,
+          30.3088203
+        ]
+      },
+      "id": "node/6604499318"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6604499319",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "石祥西路西园路口",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0652173,
+          30.30948
+        ]
+      },
+      "id": "node/6604499319"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6941755733",
+        "amenity": "ferry_terminal",
+        "ferry": "yes",
+        "name": "水上巴士 - 浙大站",
+        "name:zh": "水上巴士 - 浙大站",
+        "public_transport": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0666201,
+          30.299062
+        ]
+      },
+      "id": "node/6941755733"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6989436485",
+        "brand": "Decathlon",
+        "brand:wikidata": "Q509349",
+        "name": "Decathlon",
+        "name:en": "Decathlon",
+        "shop": "sports"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0716713,
+          30.2957503
+        ]
+      },
+      "id": "node/6989436485"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7042331043",
+        "name": "浙大紫金港",
+        "name:en": "Zhejiang University Zijingang Campus",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.072054,
+          30.2963167
+        ]
+      },
+      "id": "node/7042331043"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7284041037",
+        "name": "紫金港社区",
+        "place": "neighbourhood"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0776695,
+          30.3128713
+        ]
+      },
+      "id": "node/7284041037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8978574552",
+        "highway": "motorway_junction",
+        "name": "石祥西路"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0754116,
+          30.3115697
+        ]
+      },
+      "id": "node/8978574552"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8978957914",
+        "highway": "motorway_junction",
+        "name": "蒋墩路"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0691001,
+          30.3108368
+        ]
+      },
+      "id": "node/8978957914"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8995490061",
+        "name": "A",
+        "railway": "subway_entrance",
+        "ref": "A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0720342,
+          30.2966608
+        ]
+      },
+      "id": "node/8995490061"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9848072627",
+        "amenity": "university",
+        "internet_access": "wired",
+        "name": "建筑工程学院",
+        "name:en": "College of Civil Engineering and Architecture",
+        "name:zh": "建筑工程学院",
+        "operator": "浙江大学",
+        "operator:type": "university",
+        "website": "http://www.ccea.zju.edu.cn/main.htm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0790162,
+          30.3042094
+        ]
+      },
+      "id": "node/9848072627"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9848212817",
+        "name": "B1",
+        "railway": "subway_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0712566,
+          30.2962739
+        ]
+      },
+      "id": "node/9848212817"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9848212837",
+        "name": "C2",
+        "railway": "subway_entrance",
+        "ref": "C2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0728732,
+          30.2960369
+        ]
+      },
+      "id": "node/9848212837"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9848212846",
+        "layer": "-1",
+        "name": "浙大紫金港",
+        "name:en": "Zijinggang Campus,Zhejiang University",
+        "name:zh": "浙大紫金港",
+        "opening_hours": "06:09-23:49",
+        "operator": "杭州杭港地铁五号线有限公司",
+        "public_transport": "station",
+        "railway": "station",
+        "ref": "5",
+        "start_date": "-",
+        "station": "subway",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0720629,
+          30.2963793
+        ]
+      },
+      "id": "node/9848212846"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9887494842",
+        "highway": "motorway_junction",
+        "name": "余杭塘路"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0772519,
+          30.2993864
+        ]
+      },
+      "id": "node/9887494842"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10263022464",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "name": "东区麦斯威咖啡"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0843279,
+          30.3035801
+        ]
+      },
+      "id": "node/10263022464"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10263027973",
+        "amenity": "cafe",
+        "name": "瑞幸咖啡（浙大紫金港人文学院店）"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0751328,
+          30.3002426
+        ]
+      },
+      "id": "node/10263027973"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10263027974",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "internet_access": "wlan",
+        "name": "星巴克咖啡（浙大紫金港校区店）"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0753141,
+          30.2987697
+        ]
+      },
+      "id": "node/10263027974"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10263027975",
+        "amenity": "fast_food",
+        "name": "一鸣真鲜奶吧（浙大紫金港西区店）"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0753151,
+          30.2988758
+        ]
+      },
+      "id": "node/10263027975"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11197015982",
+        "name": "求是生活",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0674606,
+          30.3016545
+        ]
+      },
+      "id": "node/11197015982"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11197015983",
+        "name": "主旋律发艺",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0676459,
+          30.3018149
+        ]
+      },
+      "id": "node/11197015983"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11197015984",
+        "greengrocer": "fruit",
+        "name": "玉湖果园",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0677291,
+          30.3018484
+        ]
+      },
+      "id": "node/11197015984"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11197015985",
+        "brand": "全家",
+        "brand:en": "FamilyMart",
+        "brand:wikidata": "Q11247682",
+        "brand:zh": "全家",
+        "name": "全家",
+        "name:en": "FamilyMart",
+        "name:zh": "全家",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0678151,
+          30.3018843
+        ]
+      },
+      "id": "node/11197015985"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11197015986",
+        "amenity": "post_office",
+        "brand": "菜鸟驿站",
+        "brand:en": "CAI NIAO",
+        "brand:wikidata": "Q16947973",
+        "brand:zh": "菜鸟驿站",
+        "name": "菜鸟驿站",
+        "name:en": "CAI NIAO",
+        "name:zh": "菜鸟驿站"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0678713,
+          30.3016529
+        ]
+      },
+      "id": "node/11197015986"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11197015987",
+        "amenity": "cafe",
+        "brand": "瑞幸咖啡",
+        "brand:en": "Luckin Coffee",
+        "brand:wikidata": "Q56811344",
+        "brand:zh": "瑞幸咖啡",
+        "cuisine": "coffee_shop",
+        "name": "瑞幸咖啡",
+        "name:en": "Luckin Coffee",
+        "name:zh": "瑞幸咖啡",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0675558,
+          30.3016591
+        ]
+      },
+      "id": "node/11197015987"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11197015992",
+        "name": "求是生活",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0717313,
+          30.3084636
+        ]
+      },
+      "id": "node/11197015992"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11197015993",
+        "brand": "全家",
+        "brand:en": "FamilyMart",
+        "brand:wikidata": "Q11247682",
+        "brand:zh": "全家",
+        "name": "全家",
+        "name:en": "FamilyMart",
+        "name:zh": "全家",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0734483,
+          30.2987869
+        ]
+      },
+      "id": "node/11197015993"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11197016001",
+        "historic": "memorial",
+        "memorial": "plaque",
+        "name": "求是书院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0748056,
+          30.3053327
+        ]
+      },
+      "id": "node/11197016001"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11197644713",
+        "brand": "全家",
+        "brand:en": "FamilyMart",
+        "brand:wikidata": "Q11247682",
+        "brand:zh": "全家",
+        "name": "全家",
+        "name:en": "FamilyMart",
+        "name:zh": "全家",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0800784,
+          30.3111066
+        ]
+      },
+      "id": "node/11197644713"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11402046875",
+        "amenity": "fast_food",
+        "brand": "肯德基",
+        "brand:en": "KFC",
+        "brand:wikidata": "Q524757",
+        "brand:zh": "肯德基",
+        "cuisine": "chicken",
+        "name": "肯德基",
+        "name:en": "KFC",
+        "name:zh": "肯德基",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.071725,
+          30.3087735
+        ]
+      },
+      "id": "node/11402046875"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11402046876",
+        "brand": "罗森",
+        "brand:en": "LAWSON",
+        "brand:wikidata": "Q1557223",
+        "brand:zh": "罗森",
+        "name": "罗森",
+        "name:en": "Lawson",
+        "name:zh": "罗森",
+        "operator": "罗森（中国）投资有限公司",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0704272,
+          30.3084958
+        ]
+      },
+      "id": "node/11402046876"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12347726358",
+        "name": "垂梯",
+        "railway": "subway_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0716252,
+          30.2962253
+        ]
+      },
+      "id": "node/12347726358"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12347726362",
+        "name": "B2",
+        "railway": "subway_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0720018,
+          30.2957897
+        ]
+      },
+      "id": "node/12347726362"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12347726365",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "地铁浙大紫金港站",
+        "name:zh": "地铁浙大紫金港站",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0707103,
+          30.2965203
+        ]
+      },
+      "id": "node/12347726365"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12643204723",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "浙大校医院",
+        "name:zh": "浙大校医院",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0837636,
+          30.3109029
+        ]
+      },
+      "id": "node/12643204723"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12643204724",
+        "bus": "yes",
+        "name": "浙大校医院",
+        "name:zh": "浙大校医院",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0837431,
+          30.3109561
+        ]
+      },
+      "id": "node/12643204724"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12643204725",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "浙大校医院",
+        "name:zh": "浙大校医院",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0834297,
+          30.3113116
+        ]
+      },
+      "id": "node/12643204725"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12643204726",
+        "bus": "yes",
+        "name": "浙大校医院",
+        "name:zh": "浙大校医院",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0833701,
+          30.311322
+        ]
+      },
+      "id": "node/12643204726"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12643204737",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "港湾家园",
+        "name:zh": "港湾家园",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0796437,
+          30.3128109
+        ]
+      },
+      "id": "node/12643204737"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12643204738",
+        "bus": "yes",
+        "name": "港湾家园",
+        "name:zh": "港湾家园",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0797152,
+          30.3128061
+        ]
+      },
+      "id": "node/12643204738"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12645126255",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "集萃路南",
+        "name:zh": "集萃路南",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0697517,
+          30.3132393
+        ]
+      },
+      "id": "node/12645126255"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12645126256",
+        "bus": "yes",
+        "name": "集萃路南",
+        "name:zh": "集萃路南",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0696873,
+          30.3132281
+        ]
+      },
+      "id": "node/12645126256"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12645126257",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "集萃路南",
+        "name:zh": "集萃路南",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0695533,
+          30.3134407
+        ]
+      },
+      "id": "node/12645126257"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12645126258",
+        "bus": "yes",
+        "name": "集萃路南",
+        "name:zh": "集萃路南",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0696405,
+          30.3134492
+        ]
+      },
+      "id": "node/12645126258"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12645126259",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "乾成园",
+        "name:zh": "乾成园",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0691402,
+          30.3149712
+        ]
+      },
+      "id": "node/12645126259"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12645126260",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "乾成园",
+        "name:zh": "乾成园",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0693414,
+          30.3148555
+        ]
+      },
+      "id": "node/12645126260"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12645126261",
+        "bus": "yes",
+        "name": "乾成园",
+        "name:zh": "乾成园",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0692747,
+          30.3148375
+        ]
+      },
+      "id": "node/12645126261"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12645126262",
+        "bus": "yes",
+        "name": "乾成园",
+        "name:zh": "乾成园",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0692318,
+          30.3149903
+        ]
+      },
+      "id": "node/12645126262"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12645126265",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "德萃公寓",
+        "name:zh": "德萃公寓",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0689229,
+          30.3120861
+        ]
+      },
+      "id": "node/12645126265"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12645126266",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "德萃公寓",
+        "name:zh": "德萃公寓",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0691912,
+          30.3120838
+        ]
+      },
+      "id": "node/12645126266"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12645126267",
+        "bus": "yes",
+        "name": "德萃公寓",
+        "name:zh": "德萃公寓",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0691714,
+          30.3121344
+        ]
+      },
+      "id": "node/12645126267"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12645126268",
+        "bus": "yes",
+        "name": "德萃公寓",
+        "name:zh": "德萃公寓",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0689454,
+          30.3120453
+        ]
+      },
+      "id": "node/12645126268"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12649776066",
+        "bus": "yes",
+        "name": "万安大桥",
+        "name:zh": "万安大桥",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0652143,
+          30.3013993
+        ]
+      },
+      "id": "node/12649776066"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12649776067",
+        "bus": "yes",
+        "name": "万安大桥",
+        "name:zh": "万安大桥",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.065123,
+          30.2999169
+        ]
+      },
+      "id": "node/12649776067"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12652948776",
+        "bus": "yes",
+        "name": "俞家村",
+        "name:zh": "俞家村",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0651057,
+          30.3048689
+        ]
+      },
+      "id": "node/12652948776"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12655729362",
+        "bus": "yes",
+        "name": "地铁浙大紫金港站C口",
+        "name:zh": "地铁浙大紫金港站C口",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.071992,
+          30.295008
+        ]
+      },
+      "id": "node/12655729362"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12691357669",
+        "bus": "yes",
+        "name": "地铁浙大紫金港站",
+        "name:zh": "地铁浙大紫金港站",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0707178,
+          30.2965511
+        ]
+      },
+      "id": "node/12691357669"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12961372149",
+        "barrier": "gate",
+        "name": "浙江大学紫金港校区西1门"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0656546,
+          30.3056992
+        ]
+      },
+      "id": "node/12961372149"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12961372151",
+        "barrier": "gate",
+        "name": "浙江大学紫金港校区西2门"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0657856,
+          30.3033991
+        ]
+      },
+      "id": "node/12961372151"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12961372171",
+        "name": "浙江大学电子加速器",
+        "office": "research"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.072136,
+          30.3104675
+        ]
+      },
+      "id": "node/12961372171"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13005714440",
+        "amenity": "bank",
+        "atm": "yes",
+        "brand": "中国建设银行",
+        "brand:en": "China Construction Bank",
+        "brand:wikidata": "Q26299",
+        "brand:zh": "中国建设银行",
+        "name": "中国建设银行",
+        "name:en": "China Construction Bank",
+        "name:zh": "中国建设银行"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0680642,
+          30.3019335
+        ]
+      },
+      "id": "node/13005714440"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13019474403",
+        "addr:postcode": "310058",
+        "addr:street": "遵义路",
+        "amenity": "library",
+        "email": "infolib@zju.edu.cn",
+        "internet_access": "wlan",
+        "name": "浙江大学图书馆古籍馆",
+        "name:en": "Rare Books Library of Zhejiang University Library",
+        "opening_hours": "Mo-Su 08:30-22:00",
+        "website": "https://libweb.zju.edu.cn/zjgxqgjg_56665/list.htm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0746308,
+          30.3002308
+        ]
+      },
+      "id": "node/13019474403"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13019475901",
+        "addr:postcode": "310058",
+        "amenity": "college",
+        "name": "浙江大学历史学院",
+        "name:en": "School of History, Zhejiang University",
+        "website": "https://ls.zju.edu.cn/main.htm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0752633,
+          30.3002785
+        ]
+      },
+      "id": "node/13019475901"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13413199561",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "name": "星巴克咖啡(浙江大学紫金港校区银泉店)",
+        "opening_hours": "Mo-Su 07:30-20:00",
+        "outdoor_seating": "no",
+        "phone": "0571-28204790"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0706022,
+          30.3081836
+        ]
+      },
+      "id": "node/13413199561"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13413212047",
+        "addr:city": "杭州市",
+        "addr:district": "西湖区",
+        "addr:housenumber": "859",
+        "addr:province": "浙江省",
+        "addr:street": "石祥西路",
+        "internet_access": "yes",
+        "internet_access:fee": "customers",
+        "name": "欧亚美国际大酒店(杭州浙大紫金港店)",
+        "phone": "(0571)81959999",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0695993,
+          30.30989
+        ]
+      },
+      "id": "node/13413212047"
+    }
+  ]
+}
